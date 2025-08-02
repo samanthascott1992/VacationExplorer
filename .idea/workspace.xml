@@ -61,8 +61,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb1c470a-70f4-4674-bf60-5ed63eef6293" name="Changes" comment="unversioned files - need to have versioned files">
-      <change afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+    <list default="true" id="bb1c470a-70f4-4674-bf60-5ed63eef6293" name="Changes" comment="added html file for github pages deploy">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +108,7 @@
 }</component>
   <component name="GitLabMergeRequestsSettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;first&quot;: &quot;https://gitlab.com/wgu-gitlab-environment/student-repos/ssco553/d308-mobile-application-development-android.git&quot;,
+    &quot;first&quot;: &quot;https://gitlab.com/wgu-gitlab-environment/student-repos/ssco553/d424-software-engineering-capstone.git&quot;,
     &quot;second&quot;: &quot;d40a4cec-6688-4e75-ac96-f5fa2be72874&quot;
   }
 }</component>
@@ -143,7 +142,7 @@
     "com.google.services.firebase.aqiPopupShown": "true",
     "git-widget-placeholder": "working__branch",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/saman/AndroidStudioProjects/capstone",
+    "last_opened_file_path": "C:/Users/saman/AndroidStudioProjects/VacationExplorerCap",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.gitlab.GitLabSettingsConfigurable"
   },
   "keyToStringList": {
@@ -524,7 +523,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754172457143</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="added html file for github pages deploy">
+      <option name="closed" value="true" />
+      <created>1754173182436</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1754173182436</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -557,7 +564,8 @@
     <MESSAGE value="newly generated signed APK after changed made" />
     <MESSAGE value="initial upload of VacationExplorer application with search, export, and unit tests present&#10;on the correct branch" />
     <MESSAGE value="unversioned files - need to have versioned files" />
-    <option name="LAST_COMMIT_MESSAGE" value="unversioned files - need to have versioned files" />
+    <MESSAGE value="added html file for github pages deploy" />
+    <option name="LAST_COMMIT_MESSAGE" value="added html file for github pages deploy" />
   </component>
   <component name="play_dynamic_filters_status">
     <option name="appIdToCheckInfo">
