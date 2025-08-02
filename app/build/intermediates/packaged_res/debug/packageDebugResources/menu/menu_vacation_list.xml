@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    >
+
+    <item android:title="Add Sample"
+        android:id="@+id/sample"/>
+
+    <item android:title="Search"
+        android:id="@+id/menu_search"
+        android:icon="@android:drawable/ic_menu_search"
+        app:showAsAction="always|collapseActionView"
+        app:actionViewClass="android.widget.SearchView"/>
+
+        <item android:title="Export"
+            android:id="@+id/menu_export"
+            app:showAsAction="ifRoom"/>
+
+</menu>

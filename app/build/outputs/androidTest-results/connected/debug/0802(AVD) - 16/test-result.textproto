@@ -1,0 +1,133 @@
+# proto-message: google.testing.platform.proto.api.core.TestSuiteResult
+# 2025-08-02T21:32:08.576727300Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 2
+  device {
+    id: "emulator-5554"
+    friendly_name: "primary"
+  }
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "ExcursionDetailsTest"
+    test_package: "com.example.personaltravel"
+    test_method: "excursionDateBeforeVacationStart_showsValidationError"
+    start_time {
+      seconds: 1754170317
+      nanos: 203000000
+    }
+    end_time {
+      seconds: 1754170322
+      nanos: 993000000
+    }
+    device {
+      id: "emulator-5554"
+      friendly_name: "primary"
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\saman\\AndroidStudioProjects\\capstone\\app\\build\\outputs\\androidTest-results\\connected\\debug\\0802(AVD) - 16\\logcat-com.example.personaltravel.ExcursionDetailsTest-excursionDateBeforeVacationStart_showsValidationError.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\saman\\AndroidStudioProjects\\capstone\\app\\build\\outputs\\androidTest-results\\connected\\debug\\0802(AVD) - 16\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\saman\\AndroidStudioProjects\\capstone\\app\\build\\outputs\\androidTest-results\\connected\\debug\\0802(AVD) - 16\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\saman\\AndroidStudioProjects\\capstone\\app\\build\\outputs\\androidTest-results\\connected\\debug\\0802(AVD) - 16\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ExcursionDetailsTest"
+    test_package: "com.example.personaltravel"
+    test_method: "emptyExcursionName_showsValidationError"
+    start_time {
+      seconds: 1754170323
+      nanos: 36000000
+    }
+    end_time {
+      seconds: 1754170327
+      nanos: 635000000
+    }
+    device {
+      id: "emulator-5554"
+      friendly_name: "primary"
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\saman\\AndroidStudioProjects\\capstone\\app\\build\\outputs\\androidTest-results\\connected\\debug\\0802(AVD) - 16\\logcat-com.example.personaltravel.ExcursionDetailsTest-emptyExcursionName_showsValidationError.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\saman\\AndroidStudioProjects\\capstone\\app\\build\\outputs\\androidTest-results\\connected\\debug\\0802(AVD) - 16\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\saman\\AndroidStudioProjects\\capstone\\app\\build\\outputs\\androidTest-results\\connected\\debug\\0802(AVD) - 16\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\saman\\AndroidStudioProjects\\capstone\\app\\build\\outputs\\androidTest-results\\connected\\debug\\0802(AVD) - 16\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "C:\\Users\\saman\\AndroidStudioProjects\\capstone\\app\\build\\outputs\\androidTest-results\\connected\\debug\\0802(AVD) - 16\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

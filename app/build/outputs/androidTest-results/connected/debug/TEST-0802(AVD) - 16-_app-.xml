@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.personaltravel.ExcursionDetailsTest" tests="2" failures="0" errors="0" skipped="0" time="11.32" timestamp="2025-08-02T21:32:08" hostname="localhost">
+  <properties>
+    <property name="device" value="0802(AVD) - 16" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="excursionDateBeforeVacationStart_showsValidationError" classname="com.example.personaltravel.ExcursionDetailsTest" time="5.767" />
+  <testcase name="emptyExcursionName_showsValidationError" classname="com.example.personaltravel.ExcursionDetailsTest" time="4.6" />
+</testsuite>

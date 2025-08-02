@@ -1,0 +1,178 @@
+08-02 15:32:01.678 18747 18761 I TestRunner: started: emptyExcursionName_showsValidationError(com.example.personaltravel.ExcursionDetailsTest)
+08-02 15:32:01.702 18747 18761 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+08-02 15:32:01.710  1497  1497 D RecentsView: onTaskRemoved: 49, not handling task stack changes
+08-02 15:32:01.718   715  2128 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@94be1317 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+08-02 15:32:01.732  1497  1497 D RecentsView: onTaskRemoved: 49, not handling task stack changes
+08-02 15:32:01.743   551   566 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+08-02 15:32:01.749  1497  1497 W SplitSelectStateCtor: Missing session instanceIds
+08-02 15:32:01.752  1497  1497 D StatsLog: LAUNCHER_SPLIT_SELECTION_EXIT_INTERRUPTED
+08-02 15:32:01.789 18747 18747 D LifecycleMonitor: Lifecycle status change: com.example.personaltravel.UI.ExcursionDetails@a740fa5 in: PRE_ON_CREATE
+08-02 15:32:01.789 18747 18747 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+08-02 15:32:01.808 18747 18747 D LifecycleMonitor: Lifecycle status change: com.example.personaltravel.UI.ExcursionDetails@a740fa5 in: CREATED
+08-02 15:32:01.808 18747 18747 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.personaltravel.UI.ExcursionDetails@a740fa5
+08-02 15:32:01.809 18747 18747 D LifecycleMonitor: Lifecycle status change: com.example.personaltravel.UI.ExcursionDetails@a740fa5 in: STARTED
+08-02 15:32:01.809 18747 18747 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.personaltravel.UI.ExcursionDetails@a740fa5
+08-02 15:32:01.809 18747 18747 D LifecycleMonitor: Lifecycle status change: com.example.personaltravel.UI.ExcursionDetails@a740fa5 in: RESUMED
+08-02 15:32:01.809 18747 18747 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.personaltravel.UI.ExcursionDetails@a740fa5
+08-02 15:32:01.889   604   604 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:01.917 18787 18787 D VRI[InstrumentationActivityInvoker$EmptyActivity]: visibilityChanged oldVisibility=true newVisibility=false
+08-02 15:32:01.936  1239  1385 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda13@1086821
+08-02 15:32:01.987  1497  1497 D WorkspaceRevealAnim: onAnimationEnd: workspace alpha = 1.0
+08-02 15:32:02.003   715   740 I ActivityTaskManager: Displayed com.example.vacationexplorer/com.example.personaltravel.UI.ExcursionDetails for user 0: +285ms
+08-02 15:32:02.025   715   899 I ImeTracker: com.example.vacationexplorer:5669dc52: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+08-02 15:32:02.026 18747 18747 D InsetsController: hide(ime(), fromIme=false)
+08-02 15:32:02.026 18747 18747 I ImeTracker: com.example.vacationexplorer:5669dc52: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+08-02 15:32:02.027  7024  7024 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2043
+08-02 15:32:02.028  7024  7024 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+08-02 15:32:02.028   715  1468 I ImeTracker: system_server:982c98d1: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+08-02 15:32:02.029  7024  7024 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1293 onStartInput(EditorInfo{EditorInfo{packageName=com.example.vacationexplorer, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+08-02 15:32:02.031 18787 18787 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda13@d3bcb69
+08-02 15:32:02.034  7024  7024 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+08-02 15:32:02.031   715   745 I ImeTracker: system_server:982c98d1: onCancelled at PHASE_SERVER_SHOULD_HIDE
+08-02 15:32:02.037 18787 18787 D ViewRootImpl: Skipping stats log for color mode
+08-02 15:32:02.049  1497  1497 D RecentsView: onTaskRemoved: 50, not handling task stack changes
+08-02 15:32:02.052  1497  1497 D RecentsView: onTaskRemoved: 50, not handling task stack changes
+08-02 15:32:02.225  1497  1497 D VRI[NexusLauncherActivity]: visibilityChanged oldVisibility=true newVisibility=false
+08-02 15:32:02.232  1497  1497 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=7}
+08-02 15:32:02.245  1497  1497 D BaseDepthController: setSurface:
+08-02 15:32:02.245  1497  1497 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+08-02 15:32:02.245  1497  1497 D BaseDepthController: 	mBaseSurface: null
+08-02 15:32:02.245  1497  1497 D BaseDepthController: mSurface is null and mCurrentBlur is: 0
+08-02 15:32:02.245  1497  1497 D StateManager: goToState - fromState: Normal, toState: Normal, partial trace:
+08-02 15:32:02.245  1497  1497 D StateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme ee19ec8c009da7af1d458e7d1683a6f5bf3b93b44f6674aa108e1a3e78584fe0:4)
+08-02 15:32:02.245  1497  1497 D StateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme ee19ec8c009da7af1d458e7d1683a6f5bf3b93b44f6674aa108e1a3e78584fe0:1)
+08-02 15:32:02.245  1497  1497 D StateManager: 	at com.android.launcher3.statemanager.StatefulActivity.onStop(go/retraceme ee19ec8c009da7af1d458e7d1683a6f5bf3b93b44f6674aa108e1a3e78584fe0:34)
+08-02 15:32:02.246  1497  1497 D StatsLog: LAUNCHER_ONSTOP
+08-02 15:32:02.247  1497  1497 D StatsLog: LAUNCHER_GOOGLE_SEARCH_RESTORE_LIST_SIZE_AFTER_ACTIVITY_RESTART
+08-02 15:32:02.260 18787 18791 I onexplorer.test: Compiler allocated 5042KB to compile void android.view.ViewRootImpl.performTraversals()
+08-02 15:32:02.290  1239  1385 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda13@f1564d7
+08-02 15:32:02.489 18747 18747 I ViewInteraction: Performing 'replace text()' action on view view.getId() is <2131230899/com.example.vacationexplorer:id/editExcursionTitle>
+08-02 15:32:02.502 18747 18747 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230898/com.example.vacationexplorer:id/editExcursionDate>
+08-02 15:32:02.555   715  2572 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+08-02 15:32:03.086 18747 18747 I ViewInteraction: Performing 'set date' action on view view.getClass().getName() matches: "android.widget.DatePicker"
+08-02 15:32:03.118 18747 18747 I ViewInteraction: Performing 'single click' action on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "OK"
+08-02 15:32:03.170   715  2128 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+08-02 15:32:03.186 18747 18747 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda13@be54289
+08-02 15:32:03.189 18747 18763 D HWUI    : endAllActiveAnimators on 0x7b24950a1fc0 (RippleDrawable) with handle 0x7b25b506c180
+08-02 15:32:03.223   715   899 I ImeTracker: com.example.vacationexplorer:1e2dfc25: onRequestHide at ORIGIN_SERVER reason HIDE_SAME_WINDOW_FOCUSED_WITHOUT_EDITOR fromUser false
+08-02 15:32:03.224 18747 18747 D InsetsController: hide(ime(), fromIme=false)
+08-02 15:32:03.224 18747 18747 I ImeTracker: com.example.vacationexplorer:1e2dfc25: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+08-02 15:32:03.226  7024  7024 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2043
+08-02 15:32:03.226  7024  7024 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+08-02 15:32:03.228  7024  7024 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1293 onStartInput(EditorInfo{EditorInfo{packageName=com.example.vacationexplorer, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+08-02 15:32:03.229  7024  7024 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+08-02 15:32:03.364  3319  3575 D SatelliteController: iisInCarrierRoamingNbIotNtn: satellite is disabled
+08-02 15:32:03.410   715  1141 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+08-02 15:32:03.410   715  1141 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+08-02 15:32:03.410   715  1141 D InetDiagMessage: Destroyed live tcp sockets for uids={10105} in 2ms
+08-02 15:32:03.594  1493  1493 I wpa_supplicant: wlan0: CTRL-EVENT-BEACON-LOSS
+08-02 15:32:03.717 18747 18747 I ViewInteraction: Performing 'Handle transition between action bar and action bar context.' action on view view.getRootView() to equal view
+08-02 15:32:03.720 18747 18747 I ViewInteraction: Performing 'single click' action on view (((view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle) and view.getContentDescription() is "More options") or ((view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle) and view.getClass().getName() matches: a string ending with "OverflowMenuButton"))
+08-02 15:32:03.768   715  2572 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+08-02 15:32:04.384 18747 18747 I ViewInteraction: Performing 'single click' action on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Save"
+08-02 15:32:04.459   715  1141 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+08-02 15:32:04.462   715  1141 D InetDiagMessage: Destroyed 2 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+08-02 15:32:04.462   715  1141 D InetDiagMessage: Destroyed live tcp sockets for uids={10146} in 3ms
+08-02 15:32:04.498   715  2536 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+08-02 15:32:04.558   715   899 I ImeTracker: com.example.vacationexplorer:103bc50e: onRequestHide at ORIGIN_SERVER reason HIDE_SAME_WINDOW_FOCUSED_WITHOUT_EDITOR fromUser false
+08-02 15:32:04.560 18747 18747 D InsetsController: hide(ime(), fromIme=false)
+08-02 15:32:04.560 18747 18747 I ImeTracker: com.example.vacationexplorer:103bc50e: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+08-02 15:32:04.561  7024  7024 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2043
+08-02 15:32:04.562  7024  7024 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+08-02 15:32:04.564  7024  7024 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1293 onStartInput(EditorInfo{EditorInfo{packageName=com.example.vacationexplorer, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+08-02 15:32:04.566  7024  7024 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+08-02 15:32:04.820 18747 18747 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda13@6167520
+08-02 15:32:04.838 18747 18763 D HWUI    : endAllActiveAnimators on 0x7b2495042a10 (MenuPopupWindow$MenuDropDownListView) with handle 0x7b25b506dc20
+08-02 15:32:04.914   715  2536 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@9672ebb6 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+08-02 15:32:04.918   551   567 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+08-02 15:32:04.922 18747 18747 D LifecycleMonitor: Lifecycle status change: com.example.personaltravel.UI.ExcursionDetails@a740fa5 in: PAUSED
+08-02 15:32:04.922 18747 18747 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.personaltravel.UI.ExcursionDetails@a740fa5
+08-02 15:32:04.924 18787 18802 I EGL_emulation: Opening libGLESv1_CM_emulation.so
+08-02 15:32:04.925 18787 18802 I EGL_emulation: Opening libGLESv2_emulation.so
+08-02 15:32:04.939   551   551 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+08-02 15:32:04.944 18787 18802 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+08-02 15:32:04.944   715   745 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:04.944 18787 18802 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+08-02 15:32:04.944   715   745 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:04.944   715   745 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:04.947   715   745 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:04.949   604   604 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:05.158  1497  1497 D ViewRootImpl: Skipping stats log for color mode
+08-02 15:32:05.164  1497  1497 D StatsLog: LAUNCHER_ONRESUME
+08-02 15:32:05.169  1497  1497 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=6}
+08-02 15:32:05.170   715   745 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:05.170   715   745 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:05.170   715   745 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:05.170   715   745 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:05.172   715   745 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:05.172   715   745 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:05.172   715   745 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:05.172   715   745 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:05.173   715   745 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:05.173   715   745 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:05.173   715   745 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:05.173   715   745 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:05.173   715   745 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:05.173   715   745 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:05.173   715   745 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:05.173   715   745 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:05.174   715   745 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:05.174   715   745 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:05.174   715   745 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:05.174   715   745 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:05.175   715   745 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:05.175  1497  1528 D QuickstepModelDelegate: notifyAppTargetEvent action=1 launchLocation=workspace/0/[-1,-1]/[1,1]
+08-02 15:32:05.175   715   745 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:05.176   715   745 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:05.177   715   745 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:05.177   715   745 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:05.177  1940  2339 I AiAiEcho: Predicting[0]:  [CONTEXT sampling_count=5 ]
+08-02 15:32:05.177  1940  2339 I AiAiEcho: EchoTargets:
+08-02 15:32:05.177  1940  2339 I AiAiEcho: Filtered by AiAi flag check:
+08-02 15:32:05.177  1940  2339 I AiAiEcho: [CONTEXT ratelimit_period="10 SECONDS" ]
+08-02 15:32:05.177  1940  2339 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+08-02 15:32:05.178   715   745 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:05.178   715   745 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:05.178  1940  2339 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface home with targets# 0 (types=[])
+08-02 15:32:05.184  1497  1497 D BaseDepthController: setSurface:
+08-02 15:32:05.184  1497  1497 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+08-02 15:32:05.184  1497  1497 D BaseDepthController: 	mBaseSurface: Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity)/@0x201bec2
+08-02 15:32:05.247  1497  1497 I NotificationListener: Handling notification state refresh for com.android.systemui#0
+08-02 15:32:05.247  1497  1497 D SsBaseTemplateCard: No text view can be set up
+08-02 15:32:05.247  1497  1497 D SsBaseTemplateCard: Passed-in item info is null
+08-02 15:32:05.247  1497  1497 D SsBaseTemplateCard: Passed-in item info is null
+08-02 15:32:05.247  1497  1497 D SsBaseTemplateCard: Passed-in item info is null
+08-02 15:32:05.247  1497  1497 I SsBaseTemplateCard: Secondary card pane is null
+08-02 15:32:05.260  1497  1497 D StateManager: createAtomicAnimation - fromState: Background, toState: Normal, partial trace:
+08-02 15:32:05.260  1497  1497 D StateManager: 	at com.android.quickstep.util.ScalingWorkspaceRevealAnim.<init>(go/retraceme ee19ec8c009da7af1d458e7d1683a6f5bf3b93b44f6674aa108e1a3e78584fe0:39)
+08-02 15:32:05.260  1497  1497 D StateManager: 	at com.android.launcher3.QuickstepTransitionManager.createWallpaperOpenAnimations(go/retraceme ee19ec8c009da7af1d458e7d1683a6f5bf3b93b44f6674aa108e1a3e78584fe0:168)
+08-02 15:32:05.260  1497  1497 D StateManager: 	at com.android.launcher3.QuickstepTransitionManager$WallpaperOpenLauncherAnimationRunner.onAnimationStart(go/retraceme ee19ec8c009da7af1d458e7d1683a6f5bf3b93b44f6674aa108e1a3e78584fe0:17)
+08-02 15:32:05.261  1497  1497 D b/311077782: LauncherAnimationRunner.setAnimation
+08-02 15:32:05.281  1497  1528 I s.nexuslauncher: AssetManager2(0x7b2565033098) locale list changing from [] to [en-US]
+08-02 15:32:05.283   551   551 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+08-02 15:32:05.283   512   512 I RanchuHwc: logCompositionFallbackIfChanged: layer 336 CompositionType fallback from 2 to 1
+08-02 15:32:05.304   715   899 I ImeTracker: com.google.android.apps.nexuslauncher:4411fcbe: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+08-02 15:32:05.308  1497  1497 D InsetsController: hide(ime(), fromIme=false)
+08-02 15:32:05.308  1497  1497 I ImeTracker: com.google.android.apps.nexuslauncher:4411fcbe: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+08-02 15:32:05.310  7024  7024 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2043
+08-02 15:32:05.311  7024  7024 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+08-02 15:32:05.311   715  1596 I ImeTracker: system_server:b2a0aa4b: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+08-02 15:32:05.313   715   745 I ImeTracker: system_server:b2a0aa4b: onCancelled at PHASE_SERVER_SHOULD_HIDE
+08-02 15:32:05.313  7024  7024 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1293 onStartInput(EditorInfo{EditorInfo{packageName=com.google.android.apps.nexuslauncher, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+08-02 15:32:05.317  7024  7024 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+08-02 15:32:05.573  1239  1385 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda13@8154f33
+08-02 15:32:05.577   604   604 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 15:32:05.741   715   728 I system_server: Background concurrent mark compact GC freed 24MB AllocSpace bytes, 39(1152KB) LOS objects, 42% free, 32MB/56MB, paused 2.115ms,2.087ms total 169.525ms
+08-02 15:32:05.753   715   730 W System  : A resource failed to call release.
+08-02 15:32:05.753   715   730 W System  : A resource failed to call release.
+08-02 15:32:05.754   715   730 W System  : A resource failed to call release.
+08-02 15:32:05.754   715   730 W System  : A resource failed to call release.
+08-02 15:32:06.250  1497  1497 D ScalingWorkspaceRevealAnim: alpha of workspace at the end of animation: 1.0
+08-02 15:32:06.260 18747 18747 D VRI[ExcursionDetails]: visibilityChanged oldVisibility=true newVisibility=false
+08-02 15:32:06.263 18747 18747 D LifecycleMonitor: Lifecycle status change: com.example.personaltravel.UI.ExcursionDetails@a740fa5 in: STOPPED
+08-02 15:32:06.263 18747 18747 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.personaltravel.UI.ExcursionDetails@a740fa5
+08-02 15:32:06.269 18747 18747 D LifecycleMonitor: Lifecycle status change: com.example.personaltravel.UI.ExcursionDetails@a740fa5 in: DESTROYED
+08-02 15:32:06.270 18747 18747 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+08-02 15:32:06.272 18747 18747 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda13@228ea00
+08-02 15:32:06.272 18787 18787 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda13@8fc0e9b
+08-02 15:32:06.274 18747 18761 I TestRunner: finished: emptyExcursionName_showsValidationError(com.example.personaltravel.ExcursionDetailsTest)
