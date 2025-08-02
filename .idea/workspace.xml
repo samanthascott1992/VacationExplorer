@@ -61,7 +61,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb1c470a-70f4-4674-bf60-5ed63eef6293" name="Changes" comment="initial upload of VacationExplorer application with search, export, and unit tests present" />
+    <list default="true" id="bb1c470a-70f4-4674-bf60-5ed63eef6293" name="Changes" comment="unversioned files - need to have versioned files">
+      <change afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,6 +141,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "com.google.services.firebase.aqiPopupShown": "true",
+    "git-widget-placeholder": "working__branch",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/saman/AndroidStudioProjects/capstone",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.gitlab.GitLabSettingsConfigurable"
@@ -504,7 +508,23 @@
       <option name="project" value="LOCAL" />
       <updated>1752888886396</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="initial upload of VacationExplorer application with search, export, and unit tests present&#10;on the correct branch">
+      <option name="closed" value="true" />
+      <created>1754172240277</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1754172240277</updated>
+    </task>
+    <task id="LOCAL-00018" summary="unversioned files - need to have versioned files">
+      <option name="closed" value="true" />
+      <created>1754172457143</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1754172457143</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -535,7 +555,9 @@
     <MESSAGE value="reverted alert - realized it was not an issue for Vacation" />
     <MESSAGE value="changed to yy again in the vacation details" />
     <MESSAGE value="newly generated signed APK after changed made" />
-    <option name="LAST_COMMIT_MESSAGE" value="newly generated signed APK after changed made" />
+    <MESSAGE value="initial upload of VacationExplorer application with search, export, and unit tests present&#10;on the correct branch" />
+    <MESSAGE value="unversioned files - need to have versioned files" />
+    <option name="LAST_COMMIT_MESSAGE" value="unversioned files - need to have versioned files" />
   </component>
   <component name="play_dynamic_filters_status">
     <option name="appIdToCheckInfo">
