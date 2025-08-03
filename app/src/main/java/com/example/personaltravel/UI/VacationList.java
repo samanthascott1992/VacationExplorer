@@ -152,7 +152,7 @@ public class VacationList extends AppCompatActivity {
             this.finish();
             return true;
         }
-cd
+
         if(item.getItemId() == R.id.menu_export){
             exportDisplayedData();
             return true;
