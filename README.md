@@ -1,29 +1,64 @@
-<strong>**DO NOT DISTRIBUTE OR PUBLICLY POST SOLUTIONS TO THESE LABS. MAKE ALL FORKS OF THIS REPOSITORY WITH SOLUTION CODE PRIVATE. PLEASE REFER TO THE STUDENT CODE OF CONDUCT AND ETHICAL EXPECTATIONS FOR COLLEGE OF INFORMATION TECHNOLOGY STUDENTS FOR SPECIFICS. **</strong>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Personal Travel App</title>
+    <style>
+        body {
+          font-family: Arial, sans-serif;
+          padding: 2rem;
+          max-width: 800px;
+          margin: auto;
+          line-height: 1.6;
+        }
+        h1 {
+          color: #2c3e50;
+        }
+        img {
+          max-width: 100%;
+          height: auto;
+          margin: 1rem 0;
+        }
+        .button {
+          display: inline-block;
+          padding: 0.6em 1.2em;
+          background-color: #3498db;
+          color: white;
+          text-decoration: none;
+          border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
 
-# WESTERN GOVERNORS UNIVERSITY 
-## D424 – SOFTWARE ENGINEERING CAPSTONE
-Welcome to Software Engineering Capstone! This is an opportunity for students to develop full stack software engineering documentation and applications. They will execute documentation, unit testing, revision of software applications, and deploy software applications with scripts and containers on a cloud platform.
+<h1>Personal Travel App</h1>
+<p><strong>Track your vacations, excursions, and adventures with ease.</strong></p>
 
-FOR SPECIFIC TASK INSTRUCTIONS AND REQUIREMENTS FOR THIS ASSESSMENT, PLEASE REFER TO THE COURSE PAGE.
-BASIC INSTRUCTIONS
-For this assessment, you will deploy your developed full stack software product to a web service of your choice.
+<h2>Features</h2>
+<ul>
+    <li>Manage vacations with start and end dates</li>
+    <li>Add excursions to your vacations</li>
+    <li>Built-in date validation and user-friendly interface</li>
+</ul>
 
+<h2>Preview</h2>
+<!--<img src="screenshot.png" alt="App Screenshot">-->
 
-## SUPPLEMENTAL RESOURCES  
-1.	How to clone a project to IntelliJ using Git?
+<h2>How to Install</h2>
+<p>This app is currently available for local development only.</p>
+<ol>
+    <li>Clone the repo to your machine</li>
+    <li>Open it in Android Studio</li>
+    <li>Run it on an emulator or physical device</li>
+</ol>
 
-> Ensure that you have Git installed on your system and that IntelliJ is installed using [Toolbox](https://www.jetbrains.com/toolbox-app/). Make sure that you are using version 2022.3.2. Once this has been confirmed, click the clone button and use the 'IntelliJ IDEA (HTTPS)' button. This will open IntelliJ with a prompt to clone the proejct. Save it in a safe location for the directory and press clone. IntelliJ will prompt you for your credentials. Enter in your WGU Credentials and the project will be cloned onto your local machine.  
+<h2>Source Code</h2>
+<p>
+    View the full source on GitHub:<br>
+    <a class="button" href="https://samanthascott1992.github.io/VacationExplorer/" target="_blank">GitHub Repository</a>
+    release\app-release.apk
+</p>
 
-2. How to create a branch and start Development?
-
-- GitLab method
-> Press the '+' button located near your branch name. In the dropdown list, press the 'New branch' button. This will allow you to create a name for your branch. Once the branch has been named, you can select 'Create Branch' to push the branch to your repository.
-
-- IntelliJ method
-> In IntelliJ, Go to the 'Git' button on the top toolbar. Select the new branch option and create a name for the branch. Make sure checkout branch is selected and press create. You can now add a commit message and push the new branch to the local repo.
-
-## SUPPORT
-If you need additional support, please navigate to the course page and reach out to your course instructor.
-
-## FUTURE USE
-Take this opportunity to create or add to a simple resume portfolio to highlight and showcase your work for future use in career search, experience, and education!
+</body>
+</html>

@@ -143,7 +143,7 @@ public class VacationList extends AppCompatActivity {
             repository.insert(vacation);
             vacation= new Vacation(0, "Sunday Farm", "Scott Ranch", "04/29/24", "04/30/24");
             repository.insert(vacation);
-
+//test
             refreshList();
 
             return true;
@@ -152,7 +152,7 @@ public class VacationList extends AppCompatActivity {
             this.finish();
             return true;
         }
-
+cd
         if(item.getItemId() == R.id.menu_export){
             exportDisplayedData();
             return true;

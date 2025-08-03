@@ -20,6 +20,17 @@
                     tools:layout_editor_absoluteX="300dp"
                     tools:layout_editor_absoluteY="195dp"/>
 
+                <TextView
+                    android:id="@+id/excursionInfo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintTop_toBottomOf="parent"
+                    tools:layout_editor_absoluteX="300dp"
+                    tools:layout_editor_absoluteY="195dp"/>
+
         </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

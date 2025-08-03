@@ -9,8 +9,8 @@
 9        android:targetSdkVersion="35" />
 10
 11    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
-11-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:5:5-77
-11-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:5:22-74
+11-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:5:5-77
+11-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:5:22-74
 12
 13    <permission
 13-->[androidx.core:core:1.13.0] C:\Users\saman\.gradle\caches\8.11.1\transforms\1a9e1b3720880623780bde2cbde062d4\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
@@ -24,82 +24,82 @@
 17-->[androidx.core:core:1.13.0] C:\Users\saman\.gradle\caches\8.11.1\transforms\1a9e1b3720880623780bde2cbde062d4\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
 18
 19    <application
-19-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:7:5-47:19
+19-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:7:5-47:19
 20        android:allowBackup="true"
-20-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:8:9-35
+20-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:8:9-35
 21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 21-->[androidx.core:core:1.13.0] C:\Users\saman\.gradle\caches\8.11.1\transforms\1a9e1b3720880623780bde2cbde062d4\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
 22        android:dataExtractionRules="@xml/data_extraction_rules"
-22-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:9:9-65
+22-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:9:9-65
 23        android:debuggable="true"
 24        android:extractNativeLibs="false"
 25        android:fullBackupContent="@xml/backup_rules"
-25-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:10:9-54
+25-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:10:9-54
 26        android:icon="@mipmap/ic_launcher"
-26-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:11:9-43
+26-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:11:9-43
 27        android:label="@string/app_name"
-27-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:12:9-41
+27-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:12:9-41
 28        android:roundIcon="@mipmap/ic_launcher_round"
-28-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:13:9-54
+28-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:13:9-54
 29        android:supportsRtl="true"
-29-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:14:9-35
+29-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:14:9-35
 30        android:testOnly="true"
 31        android:theme="@style/Theme.PersonalTravel" >
-31-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:15:9-52
+31-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:15:9-52
 32        <receiver
-32-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:18:9-21:48
+32-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:18:9-21:48
 33            android:name="com.example.personaltravel.UI.MyReceiver"
-33-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:19:13-42
+33-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:19:13-42
 34            android:enabled="true"
-34-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:20:13-35
+34-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:20:13-35
 35            android:exported="true" />
-35-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:21:13-36
+35-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:21:13-36
 36
 37        <activity
-37-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:23:9-27:64
+37-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:23:9-27:64
 38            android:name="com.example.personaltravel.UI.ExcursionDetails"
-38-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:24:13-48
+38-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:24:13-48
 39            android:exported="false"
-39-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:25:13-37
+39-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:25:13-37
 40            android:label="Excursion Details"
-40-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:26:13-46
+40-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:26:13-46
 41            android:parentActivityName="com.example.personaltravel.UI.VacationDetails" />
-41-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:27:13-61
+41-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:27:13-61
 42        <activity
-42-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:28:9-32:61
+42-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:28:9-32:61
 43            android:name="com.example.personaltravel.UI.VacationDetails"
-43-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:29:13-47
+43-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:29:13-47
 44            android:exported="false"
-44-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:30:13-37
+44-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:30:13-37
 45            android:label="Vacation Details Excursion List"
-45-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:31:13-60
+45-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:31:13-60
 46            android:parentActivityName="com.example.personaltravel.UI.VacationList" />
-46-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:32:13-58
+46-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:32:13-58
 47        <activity
-47-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:33:9-37:61
+47-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:33:9-37:61
 48            android:name="com.example.personaltravel.UI.VacationList"
-48-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:34:13-44
+48-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:34:13-44
 49            android:exported="false"
-49-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:35:13-37
+49-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:35:13-37
 50            android:label="Vacation List"
-50-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:36:13-42
+50-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:36:13-42
 51            android:parentActivityName="com.example.personaltravel.UI.MainActivity" />
-51-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:37:13-58
+51-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:37:13-58
 52        <activity
-52-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:38:9-46:20
+52-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:38:9-46:20
 53            android:name="com.example.personaltravel.UI.MainActivity"
-53-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:39:13-44
+53-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:39:13-44
 54            android:exported="true" >
-54-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:40:13-36
+54-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:40:13-36
 55            <intent-filter>
-55-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:41:13-45:29
+55-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:41:13-45:29
 56                <action android:name="android.intent.action.MAIN" />
-56-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:42:17-69
-56-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:42:25-66
+56-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:42:17-69
+56-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:42:25-66
 57
 58                <category android:name="android.intent.category.LAUNCHER" />
-58-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:44:17-77
-58-->C:\Users\saman\AndroidStudioProjects\capstone\app\src\main\AndroidManifest.xml:44:27-74
+58-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:44:17-77
+58-->C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\src\main\AndroidManifest.xml:44:27-74
 59            </intent-filter>
 60        </activity>
 61

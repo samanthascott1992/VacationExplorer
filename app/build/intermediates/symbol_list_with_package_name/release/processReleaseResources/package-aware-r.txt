@@ -3021,6 +3021,7 @@ drawable ic_call_decline
 drawable ic_call_decline_low
 drawable ic_clear_black_24
 drawable ic_clock_black_24dp
+drawable ic_export
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
@@ -3302,6 +3303,7 @@ id enterAlwaysCollapsed
 id escape
 id excursionDate
 id excursionDelete
+id excursionInfo
 id excursionNotify
 id excursionRecyclerView
 id excursionSave
@@ -3397,6 +3399,8 @@ id material_timepicker_ok_button
 id material_timepicker_view
 id material_value_index
 id matrix
+id menu_export
+id menu_search
 id message
 id middle
 id mini

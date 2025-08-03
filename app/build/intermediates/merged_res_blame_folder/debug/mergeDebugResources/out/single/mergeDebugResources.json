@@ -1,110 +1,106 @@
 [
     {
-        "merged": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-debug-35:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.personaltravel.app-debug-35:/menu_menu_vacation_list.xml.flat",
+        "source": "com.example.personaltravel.app-main-37:/menu/menu_vacation_list.xml"
     },
     {
-        "merged": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-debug-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "com.example.personaltravel.app-debug-35:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.personaltravel.app-main-37:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-debug-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.personaltravel.app-debug-35:/menu_menu_vacation_details.xml.flat",
+        "source": "com.example.personaltravel.app-main-37:/menu/menu_vacation_details.xml"
     },
     {
-        "merged": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-debug-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "com.example.personaltravel.app-debug-35:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.personaltravel.app-main-37:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-debug-35:\\layout_vacation_list_item.xml.flat",
-        "source": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-main-37:\\layout\\vacation_list_item.xml"
+        "merged": "com.example.personaltravel.app-debug-35:/layout_vacation_list_item.xml.flat",
+        "source": "com.example.personaltravel.app-main-37:/layout/vacation_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-debug-35:\\layout_activity_vacation_list.xml.flat",
-        "source": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-main-37:\\layout\\activity_vacation_list.xml"
+        "merged": "com.example.personaltravel.app-debug-35:/menu_menu_excursion_details.xml.flat",
+        "source": "com.example.personaltravel.app-main-37:/menu/menu_excursion_details.xml"
     },
     {
-        "merged": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-debug-35:\\mipmap-anydpi_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-main-37:\\mipmap-anydpi\\ic_launcher_round.xml"
+        "merged": "com.example.personaltravel.app-debug-35:/xml_backup_rules.xml.flat",
+        "source": "com.example.personaltravel.app-main-37:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-debug-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "com.example.personaltravel.app-debug-35:/layout_excursion_list_item.xml.flat",
+        "source": "com.example.personaltravel.app-main-37:/layout/excursion_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-debug-35:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-main-37:\\layout\\activity_main.xml"
+        "merged": "com.example.personaltravel.app-debug-35:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.personaltravel.app-main-37:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-debug-35:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-main-37:\\xml\\data_extraction_rules.xml"
+        "merged": "com.example.personaltravel.app-debug-35:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.personaltravel.app-main-37:/mipmap-anydpi/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-debug-35:\\layout_activity_vacation_details.xml.flat",
-        "source": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-main-37:\\layout\\activity_vacation_details.xml"
+        "merged": "com.example.personaltravel.app-debug-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.personaltravel.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-debug-35:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-main-37:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "com.example.personaltravel.app-debug-35:/layout_activity_excursion_details.xml.flat",
+        "source": "com.example.personaltravel.app-main-37:/layout/activity_excursion_details.xml"
     },
     {
-        "merged": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-debug-35:\\menu_menu_excursion_details.xml.flat",
-        "source": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-main-37:\\menu\\menu_excursion_details.xml"
-    },
-    {
-        "merged": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-debug-35:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-main-37:\\xml\\backup_rules.xml"
-    },
-    {
-        "merged": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-debug-35:\\menu_menu_vacation_details.xml.flat",
-        "source": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-main-37:\\menu\\menu_vacation_details.xml"
-    },
-    {
-        "merged": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-debug-35:\\menu_menu_vacation_list.xml.flat",
-        "source": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-main-37:\\menu\\menu_vacation_list.xml"
+        "merged": "com.example.personaltravel.app-debug-35:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.personaltravel.app-main-37:/drawable/ic_launcher_background.xml"
     },
     {
         "merged": "com.example.personaltravel.app-debug-35:/layout_activity_main.xml.flat",
         "source": "com.example.personaltravel.app-main-37:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-debug-35:\\drawable_ic_export.xml.flat",
-        "source": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-main-37:\\drawable\\ic_export.xml"
+        "merged": "com.example.personaltravel.app-debug-35:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.personaltravel.app-main-37:/mipmap-anydpi/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-debug-35:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-main-37:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "com.example.personaltravel.app-debug-35:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.personaltravel.app-main-37:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-debug-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.personaltravel.app-debug-35:/drawable_ic_export.xml.flat",
+        "source": "com.example.personaltravel.app-main-37:/drawable/ic_export.xml"
     },
     {
-        "merged": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-debug-35:\\mipmap-anydpi_ic_launcher.xml.flat",
-        "source": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-main-37:\\mipmap-anydpi\\ic_launcher.xml"
+        "merged": "com.example.personaltravel.app-debug-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.personaltravel.app-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-debug-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "com.example.personaltravel.app-debug-35:/layout_activity_vacation_list.xml.flat",
+        "source": "com.example.personaltravel.app-main-37:/layout/activity_vacation_list.xml"
     },
     {
-        "merged": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-debug-35:\\layout_excursion_list_item.xml.flat",
-        "source": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-main-37:\\layout\\excursion_list_item.xml"
+        "merged": "com.example.personaltravel.app-debug-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.personaltravel.app-main-37:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-debug-35:\\layout_activity_excursion_details.xml.flat",
-        "source": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-main-37:\\layout\\activity_excursion_details.xml"
+        "merged": "com.example.personaltravel.app-debug-35:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.personaltravel.app-main-37:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-debug-35:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-main-37:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.example.personaltravel.app-debug-35:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.personaltravel.app-main-37:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-debug-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "com.example.personaltravel.app-debug-35:/layout_activity_vacation_details.xml.flat",
+        "source": "com.example.personaltravel.app-main-37:/layout/activity_vacation_details.xml"
     },
     {
-        "merged": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-debug-35:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\saman\\.gradle\\daemon\\8.11.1\\com.example.personaltravel.app-main-37:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "com.example.personaltravel.app-debug-35:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.personaltravel.app-main-37:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.personaltravel.app-debug-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.personaltravel.app-main-37:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.personaltravel.app-debug-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.personaltravel.app-main-37:/mipmap-xxhdpi/ic_launcher_round.webp"
     }
 ]

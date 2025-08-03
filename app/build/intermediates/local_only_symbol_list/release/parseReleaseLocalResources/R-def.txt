@@ -2,6 +2,7 @@ R_DEF: Internal format may change without notice
 local
 color black
 color white
+drawable ic_export
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 id addVacationDetails
@@ -15,6 +16,7 @@ id editStarDate
 id editVacationTitle
 id excursionDate
 id excursionDelete
+id excursionInfo
 id excursionNotify
 id excursionRecyclerView
 id excursionSave
@@ -22,6 +24,8 @@ id excursionTitle
 id floatingActionButton2
 id hotelName
 id main
+id menu_export
+id menu_search
 id sample
 id sampleExcursion
 id saveVacation

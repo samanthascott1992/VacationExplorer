@@ -4,7 +4,7 @@
     "type": "PACKAGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.example.personaltravel",
+  "applicationId": "com.example.vacationexplorer",
   "variantName": "release",
   "elements": [
     {

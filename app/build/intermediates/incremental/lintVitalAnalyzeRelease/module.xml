@@ -1,6 +1,6 @@
 <lint-module
     format="1"
-    dir="C:\Users\saman\AndroidStudioProjects\d308-mobile-application-development-android\app"
+    dir="C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app"
     name=":app"
     type="APP"
     maven="Personal Travel:app:unspecified"

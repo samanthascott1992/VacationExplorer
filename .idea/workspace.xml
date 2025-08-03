@@ -61,9 +61,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb1c470a-70f4-4674-bf60-5ed63eef6293" name="Changes" comment="added html file for github pages deploy">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bb1c470a-70f4-4674-bf60-5ed63eef6293" name="Changes" comment="added APK" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +86,7 @@
     </option>
   </component>
   <component name="GenerateSignedApkSettings">
-    <option name="KEY_STORE_PATH" value="C:\Users\saman\AndroidStudioProjects\d308-mobile-application-development-android\keystore1.jks" />
+    <option name="KEY_STORE_PATH" value="C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\apk2.jks" />
     <option name="KEY_ALIAS" value="key0" />
     <option name="BUILD_TARGET_KEY" value="apk" />
   </component>
@@ -119,18 +117,19 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2zf8ET5xi3cUAvcpOyDlAr4EIOV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "AnalyzeApkAction.lastApkPath": "C:/Users/saman/AndroidStudioProjects/d308-mobile-application-development-android/app/debug/app-debug.apk",
+    "AnalyzeApkAction.lastApkPath": "C:/Users/saman/AndroidStudioProjects/VacationExplorerApp/debug/app-debug.apk",
     "Android App.app.executor": "Run",
     "Android Instrumented Tests.ExcursionDetailsTest.executor": "Run",
     "Android Instrumented Tests.emptyExcursionName_showsValidationError().executor": "Run",
     "ApkExportedModule": "Personal_Travel.app",
-    "ExportApk.ApkPathForPersonal_Travel.app": "C:\\Users\\saman\\AndroidStudioProjects\\d308-mobile-application-development-android\\app",
+    "ExportApk.ApkPathForPersonal_Travel.app": "C:\\Users\\saman\\AndroidStudioProjects\\VacationExplorerApp",
     "PROJECT_TRUSTED_KEY": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -140,10 +139,9 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "com.google.services.firebase.aqiPopupShown": "true",
-    "git-widget-placeholder": "working__branch",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/saman/AndroidStudioProjects/VacationExplorerCap",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.gitlab.GitLabSettingsConfigurable"
+    "last_opened_file_path": "C:/Users/saman/AndroidStudioProjects/d308-mobile-application-development-android",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   },
   "keyToStringList": {
     "ExportApk.BuildVariants": [
@@ -166,7 +164,7 @@
       <recent name="com.example.personaltravel.entities" />
     </key>
   </component>
-  <component name="RunManager" selected="Android Instrumented Tests.ExcursionDetailsTest">
+  <component name="RunManager" selected="Android App.app">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="Personal_Travel.app" />
       <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />

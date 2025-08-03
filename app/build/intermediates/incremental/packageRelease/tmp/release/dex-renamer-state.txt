@@ -1,6 +1,6 @@
-#Fri Jul 18 19:32:57 MDT 2025
-base.0=C\:\\Users\\saman\\AndroidStudioProjects\\d308-mobile-application-development-android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
-base.1=C\:\\Users\\saman\\AndroidStudioProjects\\d308-mobile-application-development-android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
+#Sat Aug 02 17:23:14 MDT 2025
+base.0=C\:\\Users\\saman\\AndroidStudioProjects\\VacationExplorerApp\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+base.1=C\:\\Users\\saman\\AndroidStudioProjects\\VacationExplorerApp\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
 path.0=classes.dex
 path.1=classes2.dex
 renamed.0=classes.dex

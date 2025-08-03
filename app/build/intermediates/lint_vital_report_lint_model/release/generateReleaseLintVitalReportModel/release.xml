@@ -23,7 +23,7 @@
   <artifact
       classOutputs="build\intermediates\javac\release\compileReleaseJavaWithJavac\classes;build\intermediates\compile_and_runtime_not_namespaced_r_class_jar\release\processReleaseResources\R.jar"
       type="MAIN"
-      applicationId="com.example.personaltravel"
+      applicationId="com.example.vacationexplorer"
       generatedSourceFolders="build\generated\ap_generated_sources\release\out"
       generatedResourceFolders="build\generated\res\resValues\release"
       desugaredMethodsFiles="C:\Users\saman\.gradle\caches\8.11.1\transforms\32508e8aa2ccfc5c54d9c2810a463ca3\transformed\D8BackportedDesugaredMethods.txt">
