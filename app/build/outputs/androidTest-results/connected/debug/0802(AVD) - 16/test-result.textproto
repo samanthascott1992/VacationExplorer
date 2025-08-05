@@ -1,5 +1,5 @@
 # proto-message: google.testing.platform.proto.api.core.TestSuiteResult
-# 2025-08-05T01:47:54.822598500Z:
+# 2025-08-05T23:24:30.624705700Z:
 test_suite_meta_data {
   scheduled_test_case_count: 2
   device {
@@ -14,12 +14,12 @@ test_result {
     test_package: "com.example.personaltravel"
     test_method: "excursionDateBeforeVacationStart_showsValidationError"
     start_time {
-      seconds: 1754358461
-      nanos: 220000000
+      seconds: 1754436245
+      nanos: 905000000
     }
     end_time {
-      seconds: 1754358468
-      nanos: 732000000
+      seconds: 1754436262
+      nanos: 210000000
     }
     device {
       id: "emulator-5554"
@@ -70,12 +70,12 @@ test_result {
     test_package: "com.example.personaltravel"
     test_method: "emptyExcursionName_showsValidationError"
     start_time {
-      seconds: 1754358468
-      nanos: 827000000
+      seconds: 1754436262
+      nanos: 261000000
     }
     end_time {
-      seconds: 1754358473
-      nanos: 741000000
+      seconds: 1754436268
+      nanos: 303000000
     }
     device {
       id: "emulator-5554"

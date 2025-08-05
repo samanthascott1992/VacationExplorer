@@ -2,7 +2,7 @@
 
 emulator-5554primary¶
 
-ExcursionDetailsTestcom.example.personaltravel5excursionDateBeforeVacationStart_showsValidationError2½ÅÅÄ€Şóh:ÄÅÅÄ€Ş…İB
+ExcursionDetailsTestcom.example.personaltravel5excursionDateBeforeVacationStart_showsValidationError2•¥ÊÄÀèÄ¯:¦¥ÊÄ€±‘dB
 emulator-5554primary"‡
 
 logcatandroidñ
@@ -15,9 +15,9 @@
 …C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\build\outputs\androidTest-results\connected\debug\0802(AVD) - 16\meminfo"«
 
 device-info.cpuinfoandroidˆ
-…C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\build\outputs\androidTest-results\connected\debug\0802(AVD) - 16\cpuinfo›
-‘
-ExcursionDetailsTestcom.example.personaltravel'emptyExcursionName_showsValidationError2ÄÅÅÄÀ‰¬Š:ÉÅÅÄÀ†«áB
+…C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\build\outputs\androidTest-results\connected\debug\0802(AVD) - 16\cpuinfoš
+
+ExcursionDetailsTestcom.example.personaltravel'emptyExcursionName_showsValidationError2¦¥ÊÄÀ–º|:¬¥ÊÄÀÓ½B
 emulator-5554primary"ù
 
 logcatandroidã

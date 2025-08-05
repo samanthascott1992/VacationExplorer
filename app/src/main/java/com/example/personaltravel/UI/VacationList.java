@@ -78,6 +78,10 @@ public class VacationList extends AppCompatActivity {
         SearchView searchView = (SearchView) searchItem.getActionView();
         searchView.setQueryHint("Search by title or date");
 
+        searchView.setIconifiedByDefault(false);
+        searchView.setIconified(false);
+        searchView.requestFocus();
+
         searchView.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
             @Override
             public boolean onQueryTextSubmit(String query) {
