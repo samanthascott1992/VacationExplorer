@@ -1,37 +1,37 @@
 
 
-emulator-5554primaryÜ
+emulator-5554primary∂
 û
-ExcursionDetailsTestcom.example.personaltravel5excursionDateBeforeVacationStart_showsValidationError2Õá∫ƒ¿ëÊ`:“á∫ƒ¿ÙøŸB
-emulator-5554primary"¸
+ExcursionDetailsTestcom.example.personaltravel5excursionDateBeforeVacationStart_showsValidationError2Ω≈≈ƒÄﬁÛh:ƒ≈≈ƒÄﬁÖ›B
+emulator-5554primary"á
 
-logcatandroidÊ
-„C:\Users\saman\AndroidStudioProjects\capstone\app\build\outputs\androidTest-results\connected\debug\0802(AVD) - 16\logcat-com.example.personaltravel.ExcursionDetailsTest-excursionDateBeforeVacationStart_showsValidationError.txt"ü
+logcatandroidÒ
+ÓC:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\build\outputs\androidTest-results\connected\debug\0802(AVD) - 16\logcat-com.example.personaltravel.ExcursionDetailsTest-excursionDateBeforeVacationStart_showsValidationError.txt"™
 
-device-infoandroidÑ
-ÅC:\Users\saman\AndroidStudioProjects\capstone\app\build\outputs\androidTest-results\connected\debug\0802(AVD) - 16\device-info.pb"û
+device-infoandroidè
+åC:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\build\outputs\androidTest-results\connected\debug\0802(AVD) - 16\device-info.pb"´
 
-device-info.meminfoandroid|
-zC:\Users\saman\AndroidStudioProjects\capstone\app\build\outputs\androidTest-results\connected\debug\0802(AVD) - 16\meminfo"û
+device-info.meminfoandroidà
+ÖC:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\build\outputs\androidTest-results\connected\debug\0802(AVD) - 16\meminfo"´
 
-device-info.cpuinfoandroid|
-zC:\Users\saman\AndroidStudioProjects\capstone\app\build\outputs\androidTest-results\connected\debug\0802(AVD) - 16\cpuinfoÍ
-ê
-ExcursionDetailsTestcom.example.personaltravel'emptyExcursionName_showsValidationError2”á∫ƒÄ¢ï:◊á∫ƒ¿©ÂÆB
-emulator-5554primary"Ó
+device-info.cpuinfoandroidà
+ÖC:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\build\outputs\androidTest-results\connected\debug\0802(AVD) - 16\cpuinfoõ
+ë
+ExcursionDetailsTestcom.example.personaltravel'emptyExcursionName_showsValidationError2ƒ≈≈ƒ¿â¨ä:…≈≈ƒ¿Ü´·B
+emulator-5554primary"˘
 
-logcatandroidÿ
-’C:\Users\saman\AndroidStudioProjects\capstone\app\build\outputs\androidTest-results\connected\debug\0802(AVD) - 16\logcat-com.example.personaltravel.ExcursionDetailsTest-emptyExcursionName_showsValidationError.txt"ü
+logcatandroid„
+‡C:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\build\outputs\androidTest-results\connected\debug\0802(AVD) - 16\logcat-com.example.personaltravel.ExcursionDetailsTest-emptyExcursionName_showsValidationError.txt"™
 
-device-infoandroidÑ
-ÅC:\Users\saman\AndroidStudioProjects\capstone\app\build\outputs\androidTest-results\connected\debug\0802(AVD) - 16\device-info.pb"û
+device-infoandroidè
+åC:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\build\outputs\androidTest-results\connected\debug\0802(AVD) - 16\device-info.pb"´
 
-device-info.meminfoandroid|
-zC:\Users\saman\AndroidStudioProjects\capstone\app\build\outputs\androidTest-results\connected\debug\0802(AVD) - 16\meminfo"û
+device-info.meminfoandroidà
+ÖC:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\build\outputs\androidTest-results\connected\debug\0802(AVD) - 16\meminfo"´
 
-device-info.cpuinfoandroid|
-zC:\Users\saman\AndroidStudioProjects\capstone\app\build\outputs\androidTest-results\connected\debug\0802(AVD) - 16\cpuinfo*Ñ
+device-info.cpuinfoandroidà
+ÖC:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\build\outputs\androidTest-results\connected\debug\0802(AVD) - 16\cpuinfo*è
 c
-test-results.logOcom.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriveré
-ãC:\Users\saman\AndroidStudioProjects\capstone\app\build\outputs\androidTest-results\connected\debug\0802(AVD) - 16\testlog\test-results.log 2
+test-results.logOcom.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriverô
+ñC:\Users\saman\AndroidStudioProjects\VacationExplorerApp\app\build\outputs\androidTest-results\connected\debug\0802(AVD) - 16\testlog\test-results.log 2
 text/plain

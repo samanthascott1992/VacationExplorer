@@ -51,8 +51,6 @@ public class ExcursionDetailsTest {
         }
     }
 
-
-
     @Test
     public void emptyExcursionName_showsValidationError() {
         Intent intent = new Intent(ApplicationProvider.getApplicationContext(), ExcursionDetails.class);

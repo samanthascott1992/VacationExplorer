@@ -1,259 +1,338 @@
-08-02 15:31:55.835 18747 18761 I TestRunner: started: excursionDateBeforeVacationStart_showsValidationError(com.example.personaltravel.ExcursionDetailsTest)
-08-02 15:31:55.847 18747 18761 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
-08-02 15:31:55.854 18747 18761 E ashmem  : Pinning is deprecated since Android Q. Please use trim or other methods.
-08-02 15:31:55.868   715  1596 I system_server: AssetManager2(0x7b2565071898) locale list changing from [] to [en-US]
-08-02 15:31:55.871   715  1596 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@94be1317 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
-08-02 15:31:55.917  1497  1497 W SplitSelectStateCtor: Missing session instanceIds
-08-02 15:31:55.918  1497  1497 D StatsLog: LAUNCHER_SPLIT_SELECTION_EXIT_INTERRUPTED
-08-02 15:31:55.926  1239  1385 I ndroid.systemui: AssetManager2(0x7b2565066038) locale list changing from [] to [en-US]
-08-02 15:31:55.955   604   604 W IPCThreadState: Sending oneway calls to frozen process.
-08-02 15:31:55.968   551   567 I BpBinder: onLastStrongRef automatically unlinking death recipients:
-08-02 15:31:55.983   551   551 I BpBinder: onLastStrongRef automatically unlinking death recipients:
-08-02 15:31:55.991 18747 18747 I acationexplorer: AssetManager2(0x7b2565021758) locale list changing from [] to [en-US]
-08-02 15:31:56.044 18747 18763 I EGL_emulation: Opening libGLESv1_CM_emulation.so
-08-02 15:31:56.045 18747 18763 I EGL_emulation: Opening libGLESv2_emulation.so
-08-02 15:31:56.070 18747 18763 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
-08-02 15:31:56.070 18747 18763 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
-08-02 15:31:56.122 18747 18747 D AppCompatDelegate: Checking for metadata for AppLocalesMetadataHolderService : Service not found
-08-02 15:31:56.123 18747 18747 I acationexplorer: AssetManager2(0x7b256501e238) locale list changing from [] to [en-US]
-08-02 15:31:56.132 18747 18747 D LifecycleMonitor: Lifecycle status change: com.example.personaltravel.UI.ExcursionDetails@666fe23 in: PRE_ON_CREATE
-08-02 15:31:56.132 18747 18747 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
-08-02 15:31:56.230 18747 18747 E acationexplorer: Invalid resource ID 0x00000000.
-08-02 15:31:56.240 18747 18747 D CompatChangeReporter: Compat change id reported: 309578419; UID 10234; state: ENABLED
-08-02 15:31:56.242 18747 18747 D DesktopModeFlags: Toggle override initialized to: OVERRIDE_UNSET
-08-02 15:31:56.328 18747 18747 I acationexplorer: hiddenapi: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/appcompat/widget/ViewUtils; (domain=app) using reflection: allowed
-08-02 15:31:56.337 18747 18747 D CompatChangeReporter: Compat change id reported: 63938206; UID 10234; state: ENABLED
-08-02 15:31:56.392 18747 18747 W HWUI    : Image decoding logging dropped!
-08-02 15:31:56.394 18747 18747 W HWUI    : Image decoding logging dropped!
-08-02 15:31:56.394 18747 18747 W HWUI    : Image decoding logging dropped!
-08-02 15:31:56.399 18747 18747 D CompatChangeReporter: Compat change id reported: 352594277; UID 10234; state: ENABLED
-08-02 15:31:56.416 18747 18747 D CompatChangeReporter: Compat change id reported: 303326708; UID 10234; state: ENABLED
-08-02 15:31:56.505  1497  1497 D VRI[NexusLauncherActivity]: visibilityChanged oldVisibility=true newVisibility=false
-08-02 15:31:56.517  1497  1497 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=7}
-08-02 15:31:56.601 18747 18747 D LifecycleMonitor: Lifecycle status change: com.example.personaltravel.UI.ExcursionDetails@666fe23 in: CREATED
-08-02 15:31:56.601 18747 18747 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.personaltravel.UI.ExcursionDetails@666fe23
-08-02 15:31:56.603 18747 18747 D LifecycleMonitor: Lifecycle status change: com.example.personaltravel.UI.ExcursionDetails@666fe23 in: STARTED
-08-02 15:31:56.603 18747 18747 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.personaltravel.UI.ExcursionDetails@666fe23
-08-02 15:31:56.606 18747 18747 D LifecycleMonitor: Lifecycle status change: com.example.personaltravel.UI.ExcursionDetails@666fe23 in: RESUMED
-08-02 15:31:56.606 18747 18747 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.personaltravel.UI.ExcursionDetails@666fe23
-08-02 15:31:56.625 18747 18747 D CompatChangeReporter: Compat change id reported: 349153669; UID 10234; state: ENABLED
-08-02 15:31:56.628 18747 18747 W HWUI    : Unknown dataspace 0
-08-02 15:31:56.696   551   566 W ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10234 pid=0
-08-02 15:31:56.696   551   566 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10234 => denied (592 us)
-08-02 15:31:56.697   551   566 W ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10234 pid=0
-08-02 15:31:56.697   551   566 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10234 => denied (1185 us)
-08-02 15:31:56.697   551  1538 W ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10234 pid=18747
-08-02 15:31:56.697   551  1538 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10234 => denied (711 us)
-08-02 15:31:56.698   551   566 W ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10234 pid=0
-08-02 15:31:56.698   551   566 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10234 => denied (230 us)
-08-02 15:31:56.698   551  1538 W ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10234 pid=18747
-08-02 15:31:56.698   551  1538 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10234 => denied (322 us)
-08-02 15:31:56.863   715  1596 W ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10234 pid=0
-08-02 15:31:56.863   715  1596 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10234 => denied (320 us)
-08-02 15:31:56.863   715  1596 W ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10234 pid=0
-08-02 15:31:56.863   715  1596 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10234 => denied (63 us)
-08-02 15:31:56.863   715  1596 W ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10234 pid=0
-08-02 15:31:56.863   715  1596 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10234 => denied (44 us)
-08-02 15:31:56.867   715   740 I ActivityTaskManager: Displayed com.example.vacationexplorer/com.example.personaltravel.UI.ExcursionDetails for user 0: +1s6ms
-08-02 15:31:56.917  1497  1497 D BaseDepthController: setSurface:
-08-02 15:31:56.917  1497  1497 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
-08-02 15:31:56.917  1497  1497 D BaseDepthController: 	mBaseSurface: null
-08-02 15:31:56.917  1497  1497 D BaseDepthController: mSurface is null and mCurrentBlur is: 0
-08-02 15:31:56.920   715   899 I ImeTracker: com.example.vacationexplorer:ca146e31: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
-08-02 15:31:56.926  1497  1497 D StateManager: goToState - fromState: Normal, toState: Normal, partial trace:
-08-02 15:31:56.926  1497  1497 D StateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme ee19ec8c009da7af1d458e7d1683a6f5bf3b93b44f6674aa108e1a3e78584fe0:4)
-08-02 15:31:56.926  1497  1497 D StateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme ee19ec8c009da7af1d458e7d1683a6f5bf3b93b44f6674aa108e1a3e78584fe0:1)
-08-02 15:31:56.926  1497  1497 D StateManager: 	at com.android.launcher3.statemanager.StatefulActivity.onStop(go/retraceme ee19ec8c009da7af1d458e7d1683a6f5bf3b93b44f6674aa108e1a3e78584fe0:34)
-08-02 15:31:56.927  1497  1497 D StatsLog: LAUNCHER_ONSTOP
-08-02 15:31:56.930 18747 18747 D InsetsController: hide(ime(), fromIme=false)
-08-02 15:31:56.930 18747 18747 I ImeTracker: com.example.vacationexplorer:ca146e31: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
-08-02 15:31:56.930  1497  1497 D StatsLog: LAUNCHER_GOOGLE_SEARCH_RESTORE_LIST_SIZE_AFTER_ACTIVITY_RESTART
-08-02 15:31:56.959   715  2128 I ImeTracker: system_server:26f132ce: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
-08-02 15:31:56.960  7024  7024 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2043
-08-02 15:31:56.963   715   745 I ImeTracker: system_server:26f132ce: onCancelled at PHASE_SERVER_SHOULD_HIDE
-08-02 15:31:56.987  7024  7024 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
-08-02 15:31:56.992  7024  7024 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1293 onStartInput(EditorInfo{EditorInfo{packageName=com.example.vacationexplorer, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
-08-02 15:31:56.997  7024  7024 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
-08-02 15:31:57.018  1497  1503 W System  : A resource failed to call release.
-08-02 15:31:57.018  1497  1503 W System  : A resource failed to call release.
-08-02 15:31:57.018  1497  1503 W System  : A resource failed to call release.
-08-02 15:31:57.139  6797  6986 I FontLog : (REDACTED) Received query %s, URI %s
-08-02 15:31:57.141  6797  6986 I FontLog : (REDACTED) Query [%s] resolved to %s
-08-02 15:31:57.143 18747 18751 I acationexplorer: Compiler allocated 5042KB to compile void android.view.ViewRootImpl.performTraversals()
-08-02 15:31:57.163  6797  6986 I FontLog : (REDACTED) Fetch %s end status %s
-08-02 15:31:57.166  1239  1385 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda13@be3b302
-08-02 15:31:57.168   604   604 W IPCThreadState: Sending oneway calls to frozen process.
-08-02 15:31:57.179  6797  6986 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
-08-02 15:31:57.192  6797  6986 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
-08-02 15:31:57.387 18747 18761 W FileTestStorage: Output properties is not supported.
-08-02 15:31:57.389 18747 18761 I Tracing : Tracer added: class androidx.test.platform.tracing.AndroidXTracer
-08-02 15:31:57.407 18747 18761 D EventInjectionStrategy: Creating injection strategy with input manager.
-08-02 15:31:57.408 18747 18761 I acationexplorer: hiddenapi: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/InputManagerEventInjectionStrategy; (domain=app) using reflection: allowed
-08-02 15:31:57.409 18747 18761 I acationexplorer: hiddenapi: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/InputManagerEventInjectionStrategy; (domain=app) using reflection: allowed
-08-02 15:31:57.409 18747 18761 I acationexplorer: hiddenapi: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/InputManagerEventInjectionStrategy; (domain=app) using reflection: allowed
-08-02 15:31:57.436 18747 18747 I acationexplorer: hiddenapi: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/Interrogator; (domain=app) using reflection: allowed
-08-02 15:31:57.436 18747 18747 I acationexplorer: hiddenapi: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/Interrogator; (domain=app) using reflection: allowed
-08-02 15:31:57.436 18747 18747 I acationexplorer: hiddenapi: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/Interrogator; (domain=app) using reflection: allowed
-08-02 15:31:57.443 18747 18747 I acationexplorer: hiddenapi: Accessing hidden method Landroid/view/WindowManagerGlobal;->getInstance()Landroid/view/WindowManagerGlobal; (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/RootsOracle; (domain=app) using reflection: allowed
-08-02 15:31:57.444 18747 18747 I acationexplorer: hiddenapi: Accessing hidden field Landroid/view/WindowManagerGlobal;->mViews:Ljava/util/ArrayList; (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/RootsOracle; (domain=app) using reflection: allowed
-08-02 15:31:57.444 18747 18747 I acationexplorer: hiddenapi: Accessing hidden field Landroid/view/WindowManagerGlobal;->mParams:Ljava/util/ArrayList; (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/RootsOracle; (domain=app) using reflection: allowed
-08-02 15:31:57.453 18747 18747 I ViewInteraction: Performing 'replace text(Test Excursion)' action on view view.getId() is <2131230899/com.example.vacationexplorer:id/editExcursionTitle>
-08-02 15:31:57.473 18747 18761 I acationexplorer: hiddenapi: Accessing hidden method Landroid/view/ViewConfiguration;->getDoubleTapMinTime()I (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/action/Tap; (domain=app) using reflection: allowed
-08-02 15:31:57.475  7024  7024 W AndroidSpellCheckerService: AndroidSpellCheckerService.initialize():73 initialize...
-08-02 15:31:57.479  7024  7024 I ShortcutsDataManager: ShortcutsDataManager.onContentChanged():72 onContentChanged()
-08-02 15:31:57.482  7024  7024 I ContactsDataManager: ContactsDataManager.onContentChanged():153 onContentChanged()
-08-02 15:31:57.486  7024  7024 W AndroidSpellCheckerService: AndroidSpellCheckerService.initialize():83 initialize...done
-08-02 15:31:57.487 18747 18747 I AssistStructure: Flattened final assist data: 2072 bytes, containing 1 windows, 11 views
-08-02 15:31:57.492 18747 18747 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230898/com.example.vacationexplorer:id/editExcursionDate>
-08-02 15:31:57.494  7024  9253 I AndroidSpellCheckerService: AndroidSpellCheckerService.createSession():139 com.google.android.keyboard.client.delight5.LanguageIdentifier@80016b4 is created
-08-02 15:31:57.545 18586 18586 I AidlLazyServiceRegistrar: Process has 0 (of 2 available) client(s) in use after notification android.system.virtualizationmaintenance has clients: 0
-08-02 15:31:57.545 18586 18586 I AidlLazyServiceRegistrar: Trying to shut down the service. No clients in use for any service in process.
-08-02 15:31:57.549 18586 18586 I AidlLazyServiceRegistrar: Unregistered all clients and exiting
-08-02 15:31:57.612   715  2128 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
-08-02 15:31:58.572 18747 18747 I ViewInteraction: Performing 'set date' action on view view.getClass().getName() matches: "android.widget.DatePicker"
-08-02 15:31:58.602 18747 18747 I ViewInteraction: Performing 'single click' action on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "OK"
-08-02 15:31:58.654   715  1468 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
-08-02 15:31:58.665   547   645 D AudioFlinger: mixer(0x76bdd0ddd770) throttle end: throttle time(33)
-08-02 15:31:58.672 18747 18747 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda13@4857d8f
-08-02 15:31:58.676 18747 18763 D HWUI    : endAllActiveAnimators on 0x7b2495066d70 (RippleDrawable) with handle 0x7b25b505d3c0
-08-02 15:31:58.705   715   899 I ImeTracker: com.example.vacationexplorer:a321dcb7: onRequestHide at ORIGIN_SERVER reason HIDE_SAME_WINDOW_FOCUSED_WITHOUT_EDITOR fromUser false
-08-02 15:31:58.706 18747 18747 D InsetsController: hide(ime(), fromIme=false)
-08-02 15:31:58.706 18747 18747 I ImeTracker: com.example.vacationexplorer:a321dcb7: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
-08-02 15:31:58.707  7024  7024 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2043
-08-02 15:31:58.708  7024  7024 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
-08-02 15:31:58.711  7024  7024 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1293 onStartInput(EditorInfo{EditorInfo{packageName=com.example.vacationexplorer, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
-08-02 15:31:58.712  7024  7024 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
-08-02 15:31:58.714  7024  7024 I ShortcutsDataManager: AbstractContentDataManager.startImportContentTask():243 startImportContentTask()
-08-02 15:31:58.717  7024  7216 I ShortcutsDataManager: AbstractContentDataManager$ImportContentTask.doInBackground():258 doInBackground()
-08-02 15:31:58.721  7024  7216 I PersonalDictionaryDataHandler: PersonalDictionaryDataHandler.beginProcess():114 LanguageTags = [en-US]
-08-02 15:31:58.777  7024  7216 I ShortcutsDataManager: AbstractContentDataManager.importRecords():349 importRecords() : Success : Count = 0
-08-02 15:31:58.793  7024  7216 I ShortcutsDataManager: AbstractContentDataManager.importContentData():298 importContentData() : Ending import process
-08-02 15:31:58.797  7024  7204 I Delight5Decoder: Delight5DecoderWrapper.unloadLanguageModel():957 unloadLanguageModel() : 4, version [n/a]
-08-02 15:31:58.873  7024  7216 I PersonalLanguageModelUpdater: PersonalLanguageModelUpdater$UpdateOperation.performInternal():165 run() : Added 0 words and 0 shortcuts
-08-02 15:31:58.873  7024  7216 I DynamicLanguageModelOperation: DynamicLanguageModelOperation.perform():43 perform() : 4 : dqh : Completed
-08-02 15:31:58.873  7024  7204 I Delight5Decoder: Delight5DecoderWrapper.loadLanguageModel():740 loadLanguageModel() : 4, version [n/a]
-08-02 15:31:58.874  7024  7204 I Delight5Decoder: Delight5DecoderWrapper.loadLanguageModel():785 Loaded dynamic LM 4.en
-08-02 15:31:58.876  7024  7024 I ShortcutsDataManager: AbstractContentDataManager$ImportContentTask.onPostExecute():269 onPostExecute() : Result = [2,0]
-08-02 15:31:58.876  7024  7024 I ShortcutsDataManager: ShortcutsDataManager.onImportFinished():82 onImportFinished() : Result = 2 : Count = 0
-08-02 15:31:58.937 18747 18747 I ViewInteraction: Performing 'Handle transition between action bar and action bar context.' action on view view.getRootView() to equal view
-08-02 15:31:58.942 18747 18747 I ViewInteraction: Performing 'single click' action on view (((view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle) and view.getContentDescription() is "More options") or ((view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle) and view.getClass().getName() matches: a string ending with "OverflowMenuButton"))
-08-02 15:31:59.005   715  2399 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
-08-02 15:31:59.435 18747 18747 I ViewInteraction: Performing 'single click' action on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Save"
-08-02 15:31:59.548   715  1596 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
-08-02 15:32:00.562 18747 18747 I Choreographer: Skipped 60 frames!  The application may be doing too much work on its main thread.
-08-02 15:32:00.573  1239  1239 I ndroid.systemui: AssetManager2(0x7b25650401f8) locale list changing from [] to [en-US]
-08-02 15:32:00.626   715   899 I ImeTracker: com.example.vacationexplorer:a11df139: onRequestHide at ORIGIN_SERVER reason HIDE_SAME_WINDOW_FOCUSED_WITHOUT_EDITOR fromUser false
-08-02 15:32:00.628  7024  7024 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2043
-08-02 15:32:00.630  7024  7024 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
-08-02 15:32:00.633  7024  7024 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1293 onStartInput(EditorInfo{EditorInfo{packageName=com.example.vacationexplorer, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
-08-02 15:32:00.633 18747 18747 D InsetsController: hide(ime(), fromIme=false)
-08-02 15:32:00.633 18747 18747 I ImeTracker: com.example.vacationexplorer:a11df139: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
-08-02 15:32:00.636  7024  7024 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
-08-02 15:32:00.811   715  2399 I system_server: AssetManager2(0x7b25650c1cf8) locale list changing from [] to [en-US]
-08-02 15:32:00.811   715  2399 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@9672ebb6 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
-08-02 15:32:00.820  1239  1385 I ndroid.systemui: AssetManager2(0x7b2565075718) locale list changing from [] to [en-US]
-08-02 15:32:00.821   551   567 I BpBinder: onLastStrongRef automatically unlinking death recipients:
-08-02 15:32:00.827   715   745 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@9672ebb6 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
-08-02 15:32:00.829 18747 18747 D LifecycleMonitor: Lifecycle status change: com.example.personaltravel.UI.ExcursionDetails@666fe23 in: PAUSED
-08-02 15:32:00.829 18747 18747 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.personaltravel.UI.ExcursionDetails@666fe23
-08-02 15:32:00.831   604   604 W IPCThreadState: Sending oneway calls to frozen process.
-08-02 15:32:00.834   551   551 I BpBinder: onLastStrongRef automatically unlinking death recipients:
-08-02 15:32:00.840   477   477 D Zygote  : Forked child process 18787
-08-02 15:32:00.861 18787 18787 I onexplorer.test: Late-enabling -Xcheck:jni
-08-02 15:32:00.877 18787 18787 I onexplorer.test: Using CollectorTypeCMC GC.
-08-02 15:32:00.878 18787 18787 W onexplorer.test: Unexpected CPU variant for x86: x86_64.
-08-02 15:32:00.878 18787 18787 W onexplorer.test: Known variants: atom, sandybridge, silvermont, goldmont, goldmont-plus, goldmont-without-sha-xsaves, tremont, kabylake, alderlake, default
-08-02 15:32:00.886 18747 18747 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda13@7dae2d
-08-02 15:32:00.887  1509  1517 I adbd    : jdwp connection from 18787
-08-02 15:32:00.885  1509  1509 W adbd    : type=1400 audit(0.0:4129): avc:  denied  { getattr } for  path="/sys/fs/cgroup/apps/uid_10235/pid_18787/cgroup.freeze" dev="cgroup2" ino=12539 scontext=u:r:adbd:s0 tcontext=u:object_r:cgroup_v2:s0 tclass=file permissive=0
-08-02 15:32:00.924 18787 18787 D nativeloader: Load libframework-connectivity-tiramisu-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity-t.jar: ok
-08-02 15:32:00.992  1239  1354 I ndroid.systemui: AssetManager2(0x7b25650627f8) locale list changing from [] to [en-US]
-08-02 15:32:01.001 18787 18787 I ActivityThread: Relaunch all activities: onCoreSettingsChange
-08-02 15:32:01.030  1239  1354 I ndroid.systemui: AssetManager2(0x7b2565022a18) locale list changing from [] to [en-US]
-08-02 15:32:01.037 18787 18787 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
-08-02 15:32:01.042 18787 18787 D nativeloader: Configuring clns-9 for other apk /system/framework/android.test.mock.jar. target_sdk_version=35, uses_libraries=ALL, library_path=/data/app/~~QhpA9Cjr-1ug4floIBZs_A==/com.example.vacationexplorer.test-mnCA9DwfoAnZuSa_s0dajQ==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.vacationexplorer.test
-08-02 15:32:01.043 18787 18787 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
-08-02 15:32:01.046 18787 18787 D nativeloader: Configuring clns-10 for other apk /system/framework/android.test.runner.jar. target_sdk_version=35, uses_libraries=ALL, library_path=/data/app/~~QhpA9Cjr-1ug4floIBZs_A==/com.example.vacationexplorer.test-mnCA9DwfoAnZuSa_s0dajQ==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.vacationexplorer.test
-08-02 15:32:01.049   512   512 I RanchuHwc: logCompositionFallbackIfChanged: layer 326 CompositionType fallback from 3 to 1
-08-02 15:32:01.049   512   512 I RanchuHwc: logCompositionFallbackIfChanged: layer 325 CompositionType fallback from 2 to 1
-08-02 15:32:01.109 18787 18787 D nativeloader: Configuring clns-11 for other apk /data/app/~~QhpA9Cjr-1ug4floIBZs_A==/com.example.vacationexplorer.test-mnCA9DwfoAnZuSa_s0dajQ==/base.apk. target_sdk_version=35, uses_libraries=, library_path=/data/app/~~QhpA9Cjr-1ug4floIBZs_A==/com.example.vacationexplorer.test-mnCA9DwfoAnZuSa_s0dajQ==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.vacationexplorer.test
-08-02 15:32:01.111 18787 18787 D CompatChangeReporter: Compat change id reported: 202956589; UID 10235; state: ENABLED
-08-02 15:32:01.118 18787 18787 I onexplorer.test: AssetManager2(0x7b2565024c78) locale list changing from [] to [en-US]
-08-02 15:32:01.126 18787 18787 V GraphicsEnvironment: Currently set values for:
-08-02 15:32:01.127 18787 18787 V GraphicsEnvironment:   angle_gl_driver_selection_pkgs=[]
-08-02 15:32:01.127 18787 18787 V GraphicsEnvironment:   angle_gl_driver_selection_values=[]
-08-02 15:32:01.128 18787 18787 V GraphicsEnvironment: com.example.vacationexplorer.test is not listed in per-application setting
-08-02 15:32:01.128 18787 18787 V GraphicsEnvironment: ANGLE allowlist from config:
-08-02 15:32:01.128 18787 18787 V GraphicsEnvironment: com.example.vacationexplorer.test is not listed in ANGLE allowlist or settings, returning default
-08-02 15:32:01.129 18787 18787 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
-08-02 15:32:01.153 18787 18787 I onexplorer.test: AssetManager2(0x7b2565021758) locale list changing from [] to [en-US]
-08-02 15:32:01.165 18787 18787 E ashmem  : Pinning is deprecated since Android Q. Please use trim or other methods.
-08-02 15:32:01.179 18787 18787 E onexplorer.test: Invalid resource ID 0x00000000.
-08-02 15:32:01.184 18787 18787 D CompatChangeReporter: Compat change id reported: 279646685; UID 10235; state: ENABLED
-08-02 15:32:01.188 18787 18787 D CompatChangeReporter: Compat change id reported: 309578419; UID 10235; state: ENABLED
-08-02 15:32:01.191 18787 18787 D DesktopModeFlags: Toggle override initialized to: OVERRIDE_UNSET
-08-02 15:32:01.196 18787 18802 I EGL_emulation: Opening libGLESv1_CM_emulation.so
-08-02 15:32:01.198 18787 18802 I EGL_emulation: Opening libGLESv2_emulation.so
-08-02 15:32:01.204 18787 18802 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
-08-02 15:32:01.205 18787 18802 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
-08-02 15:32:01.214 18787 18787 D CompatChangeReporter: Compat change id reported: 352594277; UID 10235; state: ENABLED
-08-02 15:32:01.222 18787 18787 D CompatChangeReporter: Compat change id reported: 349153669; UID 10235; state: ENABLED
-08-02 15:32:01.224 18787 18787 W HWUI    : Unknown dataspace 0
-08-02 15:32:01.262 18747 18807 D ProfileInstaller: Installing profile for com.example.vacationexplorer
-08-02 15:32:01.273   551   593 I BpBinder: onLastStrongRef automatically unlinking death recipients:
-08-02 15:32:01.288   551   566 W ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10235 pid=0
-08-02 15:32:01.288   551   566 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10235 => denied (251 us)
-08-02 15:32:01.288   551   566 W ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10235 pid=0
-08-02 15:32:01.288   551   566 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10235 => denied (147 us)
-08-02 15:32:01.289   551   566 W ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10235 pid=0
-08-02 15:32:01.289   551   566 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10235 => denied (564 us)
-08-02 15:32:01.386   715  1596 W ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10235 pid=0
-08-02 15:32:01.386   715  1596 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10235 => denied (101 us)
-08-02 15:32:01.386   715  1596 W ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10235 pid=0
-08-02 15:32:01.386   715  1596 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10235 => denied (70 us)
-08-02 15:32:01.386   715  1596 W ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10235 pid=0
-08-02 15:32:01.386   715  1596 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10235 => denied (54 us)
-08-02 15:32:01.400  1497  1497 D ViewRootImpl: Skipping stats log for color mode
-08-02 15:32:01.402  1497  1497 D StatsLog: LAUNCHER_ONRESUME
-08-02 15:32:01.420  1497  1528 D QuickstepModelDelegate: notifyAppTargetEvent action=1 launchLocation=workspace/0/[-1,-1]/[1,1]
-08-02 15:32:01.422  1497  1497 D VRI[NexusLauncherActivity]: visibilityChanged oldVisibility=false newVisibility=true
-08-02 15:32:01.428  1497  1497 I NotificationListener: Handling notification state refresh for com.android.systemui#0
-08-02 15:32:01.435  1497  1497 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=6}
-08-02 15:32:01.443  1497  1497 D BaseDepthController: setSurface:
-08-02 15:32:01.443  1497  1497 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
-08-02 15:32:01.443  1497  1497 D BaseDepthController: 	mBaseSurface: Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity)/@0x201bec2
-08-02 15:32:01.486  1940  2339 I AiAiEcho: Predicting[0]:  [CONTEXT sampling_count=5 ]
-08-02 15:32:01.487  1940  2339 I AiAiEcho: EchoTargets:
-08-02 15:32:01.487  1940  2339 I AiAiEcho: Filtered by AiAi flag check:
-08-02 15:32:01.487  1940  2339 I AiAiEcho: [CONTEXT ratelimit_period="10 SECONDS" ]
-08-02 15:32:01.489  1940  2339 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
-08-02 15:32:01.501  1940  2339 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface home with targets# 0 (types=[])
-08-02 15:32:01.539  1497  1497 D SsBaseTemplateCard: No text view can be set up
-08-02 15:32:01.539  1497  1497 D SsBaseTemplateCard: Passed-in item info is null
-08-02 15:32:01.539  1497  1497 D SsBaseTemplateCard: Passed-in item info is null
-08-02 15:32:01.539  1497  1497 D SsBaseTemplateCard: Passed-in item info is null
-08-02 15:32:01.539  1497  1497 I SsBaseTemplateCard: Secondary card pane is null
-08-02 15:32:01.577 18747 18747 D VRI[ExcursionDetails]: visibilityChanged oldVisibility=true newVisibility=false
-08-02 15:32:01.586  1497  1497 D StateManager: createAtomicAnimation - fromState: Background, toState: Normal, partial trace:
-08-02 15:32:01.586  1497  1497 D StateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.prepareToAnimate(go/retraceme ee19ec8c009da7af1d458e7d1683a6f5bf3b93b44f6674aa108e1a3e78584fe0:22)
-08-02 15:32:01.586  1497  1497 D StateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.<init>(go/retraceme ee19ec8c009da7af1d458e7d1683a6f5bf3b93b44f6674aa108e1a3e78584fe0:11)
-08-02 15:32:01.586  1497  1497 D StateManager: 	at com.android.launcher3.QuickstepTransitionManager.createWallpaperOpenAnimations(go/retraceme ee19ec8c009da7af1d458e7d1683a6f5bf3b93b44f6674aa108e1a3e78584fe0:339)
-08-02 15:32:01.590  1497  1497 D b/311077782: LauncherAnimationRunner.setAnimation
-08-02 15:32:01.607   715   899 I ImeTracker: com.google.android.apps.nexuslauncher:327d8211: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
-08-02 15:32:01.609  1497  1497 D InsetsController: hide(ime(), fromIme=false)
-08-02 15:32:01.610  1497  1497 I ImeTracker: com.google.android.apps.nexuslauncher:327d8211: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
-08-02 15:32:01.610  7024  7024 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2043
-08-02 15:32:01.612  7024  7024 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
-08-02 15:32:01.612   715  1596 I ImeTracker: system_server:d12b8a1b: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
-08-02 15:32:01.614  7024  7024 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1293 onStartInput(EditorInfo{EditorInfo{packageName=com.google.android.apps.nexuslauncher, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
-08-02 15:32:01.617   512   512 I RanchuHwc: logCompositionFallbackIfChanged: layer 329 CompositionType fallback from 2 to 1
-08-02 15:32:01.617   512   512 I RanchuHwc: logCompositionFallbackIfChanged: layer 330 CompositionType fallback from 2 to 1
-08-02 15:32:01.618  7024  7024 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
-08-02 15:32:01.620   715   745 I ImeTracker: system_server:d12b8a1b: onCancelled at PHASE_SERVER_SHOULD_HIDE
-08-02 15:32:01.622 18747 18747 I AutofillManager: onInvisibleForAutofill(): expiringResponse
-08-02 15:32:01.623 18747 18747 D LifecycleMonitor: Lifecycle status change: com.example.personaltravel.UI.ExcursionDetails@666fe23 in: STOPPED
-08-02 15:32:01.624 18747 18747 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.personaltravel.UI.ExcursionDetails@666fe23
-08-02 15:32:01.634 18747 18747 D LifecycleMonitor: Lifecycle status change: com.example.personaltravel.UI.ExcursionDetails@666fe23 in: DESTROYED
-08-02 15:32:01.635 18747 18747 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
-08-02 15:32:01.635 18747 18747 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda13@94f40b
-08-02 15:32:01.637 18747 18761 I TestRunner: finished: excursionDateBeforeVacationStart_showsValidationError(com.example.personaltravel.ExcursionDetailsTest)
+08-04 19:47:38.363 23512 23526 I TestRunner: started: excursionDateBeforeVacationStart_showsValidationError(com.example.personaltravel.ExcursionDetailsTest)
+08-04 19:47:38.373  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565048538) locale list changing from [] to [en-US]
+08-04 19:47:38.387  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565034cb8) locale list changing from [] to [en-US]
+08-04 19:47:38.395  7021  7090 I .apps.wellbeing: AssetManager2(0x7b25650478b8) locale list changing from [] to [en-US]
+08-04 19:47:38.395 23512 23526 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+08-04 19:47:38.407 23512 23526 E ashmem  : Pinning is deprecated since Android Q. Please use trim or other methods.
+08-04 19:47:38.412  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565042a98) locale list changing from [] to [en-US]
+08-04 19:47:38.417  7021  7090 I .apps.wellbeing: AssetManager2(0x7b256502ebd8) locale list changing from [] to [en-US]
+08-04 19:47:38.434  7021  7090 I .apps.wellbeing: AssetManager2(0x7b256504cd18) locale list changing from [] to [en-US]
+08-04 19:47:38.455  7021  7090 I .apps.wellbeing: AssetManager2(0x7b25650401f8) locale list changing from [] to [en-US]
+08-04 19:47:38.474   715  2074 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@a0afff70 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+08-04 19:47:38.609  7021  7090 I .apps.wellbeing: AssetManager2(0x7b25650304d8) locale list changing from [] to [en-US]
+08-04 19:47:38.626   551  1538 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+08-04 19:47:38.638  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565029138) locale list changing from [] to [en-US]
+08-04 19:47:38.656  7021  7090 I .apps.wellbeing: AssetManager2(0x7b256503f898) locale list changing from [] to [en-US]
+08-04 19:47:38.663  1239  1385 I ndroid.systemui: AssetManager2(0x7b25650365b8) locale list changing from [] to [en-US]
+08-04 19:47:38.667  1497  1497 W SplitSelectStateCtor: Missing session instanceIds
+08-04 19:47:38.667  1497  1497 D StatsLog: LAUNCHER_SPLIT_SELECTION_EXIT_INTERRUPTED
+08-04 19:47:38.705  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565024958) locale list changing from [] to [en-US]
+08-04 19:47:38.758  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565037878) locale list changing from [] to [en-US]
+08-04 19:47:38.812  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565031dd8) locale list changing from [] to [en-US]
+08-04 19:47:38.838   604   701 W IPCThreadState: Sending oneway calls to frozen process.
+08-04 19:47:38.839   604   701 W IPCThreadState: Sending oneway calls to frozen process.
+08-04 19:47:38.866  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565039178) locale list changing from [] to [en-US]
+08-04 19:47:38.895 23512 23512 I acationexplorer: AssetManager2(0x7b2565020ad8) locale list changing from [] to [en-US]
+08-04 19:47:38.906   551   551 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+08-04 19:47:38.914  7021  7090 I .apps.wellbeing: AssetManager2(0x7b256503ec18) locale list changing from [] to [en-US]
+08-04 19:47:38.922  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565023058) locale list changing from [] to [en-US]
+08-04 19:47:38.944  7021  7090 I .apps.wellbeing: AssetManager2(0x7b25650430d8) locale list changing from [] to [en-US]
+08-04 19:47:38.955  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565027b58) locale list changing from [] to [en-US]
+08-04 19:47:38.964 23512 23528 I EGL_emulation: Opening libGLESv1_CM_emulation.so
+08-04 19:47:38.968  7021  7090 I .apps.wellbeing: AssetManager2(0x7b25650446b8) locale list changing from [] to [en-US]
+08-04 19:47:38.971 23512 23528 I EGL_emulation: Opening libGLESv2_emulation.so
+08-04 19:47:38.990 23512 23528 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+08-04 19:47:38.995  7021  7090 I .apps.wellbeing: AssetManager2(0x7b256502b6b8) locale list changing from [] to [en-US]
+08-04 19:47:38.997 23512 23528 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+08-04 19:47:39.002  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565040b58) locale list changing from [] to [en-US]
+08-04 19:47:39.019  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565023cd8) locale list changing from [] to [en-US]
+08-04 19:47:39.028  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565046f58) locale list changing from [] to [en-US]
+08-04 19:47:39.076  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565045658) locale list changing from [] to [en-US]
+08-04 19:47:39.111 23512 23512 D AppCompatDelegate: Checking for metadata for AppLocalesMetadataHolderService : Service not found
+08-04 19:47:39.111 23512 23512 I acationexplorer: AssetManager2(0x7b2565021438) locale list changing from [] to [en-US]
+08-04 19:47:39.139 23512 23512 D LifecycleMonitor: Lifecycle status change: com.example.personaltravel.UI.ExcursionDetails@666fe23 in: PRE_ON_CREATE
+08-04 19:47:39.140 23512 23512 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+08-04 19:47:39.155  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565032d78) locale list changing from [] to [en-US]
+08-04 19:47:39.168  7021  7090 I .apps.wellbeing: AssetManager2(0x7b256502f218) locale list changing from [] to [en-US]
+08-04 19:47:39.174  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565023378) locale list changing from [] to [en-US]
+08-04 19:47:39.182  7021  7090 I .apps.wellbeing: AssetManager2(0x7b256504f5b8) locale list changing from [] to [en-US]
+08-04 19:47:39.197  7021  7090 I .apps.wellbeing: AssetManager2(0x7b256504b418) locale list changing from [] to [en-US]
+08-04 19:47:39.218  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565033d18) locale list changing from [] to [en-US]
+08-04 19:47:39.233  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565051818) locale list changing from [] to [en-US]
+08-04 19:47:39.241  7021  7090 I .apps.wellbeing: AssetManager2(0x7b256503e2b8) locale list changing from [] to [en-US]
+08-04 19:47:39.250  7021  7090 I .apps.wellbeing: AssetManager2(0x7b25650433f8) locale list changing from [] to [en-US]
+08-04 19:47:39.267  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565035618) locale list changing from [] to [en-US]
+08-04 19:47:39.279  7021  7090 I .apps.wellbeing: AssetManager2(0x7b256503aa78) locale list changing from [] to [en-US]
+08-04 19:47:39.300  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565032a58) locale list changing from [] to [en-US]
+08-04 19:47:39.310  7021  7090 I .apps.wellbeing: AssetManager2(0x7b256502eef8) locale list changing from [] to [en-US]
+08-04 19:47:39.317 23512 23512 E acationexplorer: Invalid resource ID 0x00000000.
+08-04 19:47:39.318  7021  7090 I .apps.wellbeing: AssetManager2(0x7b25650252b8) locale list changing from [] to [en-US]
+08-04 19:47:39.367 23512 23512 D CompatChangeReporter: Compat change id reported: 309578419; UID 10241; state: ENABLED
+08-04 19:47:39.370 23512 23512 D DesktopModeFlags: Toggle override initialized to: OVERRIDE_UNSET
+08-04 19:47:39.375  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565037b98) locale list changing from [] to [en-US]
+08-04 19:47:39.382  7021  7090 I .apps.wellbeing: AssetManager2(0x7b256503c9b8) locale list changing from [] to [en-US]
+08-04 19:47:39.403  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565023698) locale list changing from [] to [en-US]
+08-04 19:47:39.415  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565031798) locale list changing from [] to [en-US]
+08-04 19:47:39.469  1497  1497 D VRI[NexusLauncherActivity]: visibilityChanged oldVisibility=true newVisibility=false
+08-04 19:47:39.483  1497  1497 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=7}
+08-04 19:47:39.511  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565032738) locale list changing from [] to [en-US]
+08-04 19:47:39.546 23512 23512 I acationexplorer: hiddenapi: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/appcompat/widget/ViewUtils; (domain=app) using reflection: allowed
+08-04 19:47:39.567 23512 23512 D CompatChangeReporter: Compat change id reported: 63938206; UID 10241; state: ENABLED
+08-04 19:47:39.590  7021  7090 I .apps.wellbeing: AssetManager2(0x7b25650336d8) locale list changing from [] to [en-US]
+08-04 19:47:39.633  7021  7090 I .apps.wellbeing: AssetManager2(0x7b256502b398) locale list changing from [] to [en-US]
+08-04 19:47:39.639  7021  7090 I .apps.wellbeing: AssetManager2(0x7b256502c978) locale list changing from [] to [en-US]
+08-04 19:47:39.719 23512 23512 W HWUI    : Image decoding logging dropped!
+08-04 19:47:39.725 23512 23512 W HWUI    : Image decoding logging dropped!
+08-04 19:47:39.728 23512 23512 W HWUI    : Image decoding logging dropped!
+08-04 19:47:39.745 23512 23512 D CompatChangeReporter: Compat change id reported: 352594277; UID 10241; state: ENABLED
+08-04 19:47:39.787  7021  7090 I .apps.wellbeing: AssetManager2(0x7b256503d318) locale list changing from [] to [en-US]
+08-04 19:47:39.796 23512 23512 D CompatChangeReporter: Compat change id reported: 303326708; UID 10241; state: ENABLED
+08-04 19:47:39.814  7021  7090 I .apps.wellbeing: AssetManager2(0x7b256502f538) locale list changing from [] to [en-US]
+08-04 19:47:39.823  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565036f18) locale list changing from [] to [en-US]
+08-04 19:47:39.842  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565032418) locale list changing from [] to [en-US]
+08-04 19:47:39.862  7021  7090 I .apps.wellbeing: AssetManager2(0x7b256502e8b8) locale list changing from [] to [en-US]
+08-04 19:47:39.877  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565035938) locale list changing from [] to [en-US]
+08-04 19:47:39.886  7021  7090 I .apps.wellbeing: AssetManager2(0x7b256502d2d8) locale list changing from [] to [en-US]
+08-04 19:47:39.908  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565037558) locale list changing from [] to [en-US]
+08-04 19:47:39.917  7021  7090 I .apps.wellbeing: AssetManager2(0x7b256502aa38) locale list changing from [] to [en-US]
+08-04 19:47:39.922  7021  7090 I .apps.wellbeing: AssetManager2(0x7b256502e278) locale list changing from [] to [en-US]
+08-04 19:47:39.926  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565024f98) locale list changing from [] to [en-US]
+08-04 19:47:39.937  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565042458) locale list changing from [] to [en-US]
+08-04 19:47:39.944  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565047ef8) locale list changing from [] to [en-US]
+08-04 19:47:39.949  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565039df8) locale list changing from [] to [en-US]
+08-04 19:47:39.957  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565034358) locale list changing from [] to [en-US]
+08-04 19:47:39.963  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565031158) locale list changing from [] to [en-US]
+08-04 19:47:39.972  7021  7090 I .apps.wellbeing: AssetManager2(0x7b256502e598) locale list changing from [] to [en-US]
+08-04 19:47:39.986  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565048858) locale list changing from [] to [en-US]
+08-04 19:47:40.112  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565031478) locale list changing from [] to [en-US]
+08-04 19:47:40.130  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565041af8) locale list changing from [] to [en-US]
+08-04 19:47:40.155 23512 23512 D LifecycleMonitor: Lifecycle status change: com.example.personaltravel.UI.ExcursionDetails@666fe23 in: CREATED
+08-04 19:47:40.156 23512 23512 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.personaltravel.UI.ExcursionDetails@666fe23
+08-04 19:47:40.158 23512 23512 D LifecycleMonitor: Lifecycle status change: com.example.personaltravel.UI.ExcursionDetails@666fe23 in: STARTED
+08-04 19:47:40.159 23512 23512 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.personaltravel.UI.ExcursionDetails@666fe23
+08-04 19:47:40.162 23512 23512 D LifecycleMonitor: Lifecycle status change: com.example.personaltravel.UI.ExcursionDetails@666fe23 in: RESUMED
+08-04 19:47:40.163  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565048b78) locale list changing from [] to [en-US]
+08-04 19:47:40.164 23512 23512 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.personaltravel.UI.ExcursionDetails@666fe23
+08-04 19:47:40.183  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565031ab8) locale list changing from [] to [en-US]
+08-04 19:47:40.198  7021  7090 I .apps.wellbeing: AssetManager2(0x7b256503d638) locale list changing from [] to [en-US]
+08-04 19:47:40.217 23512 23512 D CompatChangeReporter: Compat change id reported: 349153669; UID 10241; state: ENABLED
+08-04 19:47:40.232 23512 23512 W HWUI    : Unknown dataspace 0
+08-04 19:47:40.301  7021  7090 I .apps.wellbeing: AssetManager2(0x7b256503f578) locale list changing from [] to [en-US]
+08-04 19:47:40.339  7021  7090 I .apps.wellbeing: AssetManager2(0x7b2565026bb8) locale list changing from [] to [en-US]
+08-04 19:47:40.411   551   567 W ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10241 pid=0
+08-04 19:47:40.412   551   567 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10241 => denied (433 us)
+08-04 19:47:40.412   551   593 W ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10241 pid=23512
+08-04 19:47:40.412   551   593 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10241 => denied (160 us)
+08-04 19:47:40.413   551   593 W ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10241 pid=23512
+08-04 19:47:40.413   551   593 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10241 => denied (260 us)
+08-04 19:47:40.415   551   567 W ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10241 pid=0
+08-04 19:47:40.415   551   567 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10241 => denied (3496 us)
+08-04 19:47:40.595   715  2263 W ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10241 pid=0
+08-04 19:47:40.595   715  2263 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10241 => denied (239 us)
+08-04 19:47:40.595   715  2263 W ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10241 pid=0
+08-04 19:47:40.595   715  2263 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10241 => denied (59 us)
+08-04 19:47:40.595   715  2263 W ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10241 pid=0
+08-04 19:47:40.598   715  2263 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10241 => denied (3078 us)
+08-04 19:47:40.616   715   740 I ActivityTaskManager: Displayed com.example.vacationexplorer/com.example.personaltravel.UI.ExcursionDetails for user 0: +2s178ms
+08-04 19:47:40.666   715   899 I ImeTracker: com.example.vacationexplorer:75714452: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+08-04 19:47:40.669 23512 23512 D InsetsController: hide(ime(), fromIme=false)
+08-04 19:47:40.670 23512 23512 I ImeTracker: com.example.vacationexplorer:75714452: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+08-04 19:47:40.698  1497  1497 D BaseDepthController: setSurface:
+08-04 19:47:40.698  1497  1497 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+08-04 19:47:40.698  1497  1497 D BaseDepthController: 	mBaseSurface: null
+08-04 19:47:40.698  1497  1497 D BaseDepthController: mSurface is null and mCurrentBlur is: 0
+08-04 19:47:40.714   715  2374 I ImeTracker: system_server:a4e9708c: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+08-04 19:47:40.729  1497  1497 D StateManager: goToState - fromState: Normal, toState: Normal, partial trace:
+08-04 19:47:40.729  1497  1497 D StateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme ee19ec8c009da7af1d458e7d1683a6f5bf3b93b44f6674aa108e1a3e78584fe0:4)
+08-04 19:47:40.729  1497  1497 D StateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme ee19ec8c009da7af1d458e7d1683a6f5bf3b93b44f6674aa108e1a3e78584fe0:1)
+08-04 19:47:40.729  1497  1497 D StateManager: 	at com.android.launcher3.statemanager.StatefulActivity.onStop(go/retraceme ee19ec8c009da7af1d458e7d1683a6f5bf3b93b44f6674aa108e1a3e78584fe0:34)
+08-04 19:47:40.730  1497  1497 D StatsLog: LAUNCHER_ONSTOP
+08-04 19:47:40.761  1497  1497 D StatsLog: LAUNCHER_GOOGLE_SEARCH_RESTORE_LIST_SIZE_AFTER_ACTIVITY_RESTART
+08-04 19:47:40.768  7024  7024 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2043
+08-04 19:47:40.773   715   745 I ImeTracker: system_server:a4e9708c: onCancelled at PHASE_SERVER_SHOULD_HIDE
+08-04 19:47:40.780 23512 23516 I acationexplorer: Compiler allocated 5042KB to compile void android.view.ViewRootImpl.performTraversals()
+08-04 19:47:40.844  6797  6941 I FontLog : (REDACTED) Received query %s, URI %s
+08-04 19:47:40.854  6797  6941 I FontLog : (REDACTED) Query [%s] resolved to %s
+08-04 19:47:40.913  7024  7024 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+08-04 19:47:40.926  6797  6941 I FontLog : (REDACTED) Fetch %s end status %s
+08-04 19:47:40.945  7024  7024 W NotificationCenter: NotificationCenter$NotificationQueue.notifyPendingNotificationsOnExecutor():877 Heavy notify work detected on UI thread: [kig->ijm, kig->ilu, kig->khg, kig->gkl, kig->jnx, kig->ilu, kig->ilu, kig->imt, kig->ilu, kig->ilu, kig->ilu, kig->lux, kig->ilu, kig->fro, kig->ilu, kig->jvb, kig->ilu, kig->ilu, kig->fcb, kig->ilu, kig->fef, kig->ilu, kig->khc, kig->ilu, kig->ilu] takes 103ms
+08-04 19:47:40.970   604   701 W IPCThreadState: Sending oneway calls to frozen process.
+08-04 19:47:40.970   604   701 W IPCThreadState: Sending oneway calls to frozen process.
+08-04 19:47:40.986  6797  6941 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+08-04 19:47:40.987  1239  1385 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda13@1911f4b
+08-04 19:47:41.014  7024  7024 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1293 onStartInput(EditorInfo{EditorInfo{packageName=com.example.vacationexplorer, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+08-04 19:47:41.047  6797  6941 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+08-04 19:47:41.066  7024  7024 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+08-04 19:47:41.091  7024  7024 W NotificationCenter: NotificationCenter$NotificationQueue.notifyPendingNotificationsOnExecutor():877 Heavy notify work detected on UI thread: [kig->ijm, kig->ilu, kig->khg, kig->gkl, kig->jnx, kig->ilu, kig->ilu, kig->imt, kig->ilu, kig->ilu, kig->ilu, kig->lux, kig->ilu, kig->fro, kig->ilu, kig->jvb, kig->ilu, kig->ilu, kig->fcb, kig->ilu, kig->fef, kig->ilu, kig->khc, kig->ilu, kig->ilu] takes 25ms
+08-04 19:47:41.211 23512 23526 W FileTestStorage: Output properties is not supported.
+08-04 19:47:41.214 23512 23526 I Tracing : Tracer added: class androidx.test.platform.tracing.AndroidXTracer
+08-04 19:47:41.237 23512 23526 D EventInjectionStrategy: Creating injection strategy with input manager.
+08-04 19:47:41.241 23512 23526 I acationexplorer: hiddenapi: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/InputManagerEventInjectionStrategy; (domain=app) using reflection: allowed
+08-04 19:47:41.241 23512 23526 I acationexplorer: hiddenapi: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/InputManagerEventInjectionStrategy; (domain=app) using reflection: allowed
+08-04 19:47:41.241 23512 23526 I acationexplorer: hiddenapi: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/InputManagerEventInjectionStrategy; (domain=app) using reflection: allowed
+08-04 19:47:41.282 23512 23512 I acationexplorer: hiddenapi: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/Interrogator; (domain=app) using reflection: allowed
+08-04 19:47:41.282 23512 23512 I acationexplorer: hiddenapi: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/Interrogator; (domain=app) using reflection: allowed
+08-04 19:47:41.282 23512 23512 I acationexplorer: hiddenapi: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/Interrogator; (domain=app) using reflection: allowed
+08-04 19:47:41.294 23512 23512 I acationexplorer: hiddenapi: Accessing hidden method Landroid/view/WindowManagerGlobal;->getInstance()Landroid/view/WindowManagerGlobal; (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/RootsOracle; (domain=app) using reflection: allowed
+08-04 19:47:41.296 23512 23512 I acationexplorer: hiddenapi: Accessing hidden field Landroid/view/WindowManagerGlobal;->mViews:Ljava/util/ArrayList; (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/RootsOracle; (domain=app) using reflection: allowed
+08-04 19:47:41.296 23512 23512 I acationexplorer: hiddenapi: Accessing hidden field Landroid/view/WindowManagerGlobal;->mParams:Ljava/util/ArrayList; (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/base/RootsOracle; (domain=app) using reflection: allowed
+08-04 19:47:41.310 23512 23512 I ViewInteraction: Performing 'replace text(Test Excursion)' action on view view.getId() is <2131230899/com.example.vacationexplorer:id/editExcursionTitle>
+08-04 19:47:41.315  1239  1256 W System  : A resource failed to call release.
+08-04 19:47:41.315  1239  1256 W System  : A resource failed to call release.
+08-04 19:47:41.315  1239  1256 W System  : A resource failed to call release.
+08-04 19:47:41.350  7024  7024 W AndroidSpellCheckerService: AndroidSpellCheckerService.initialize():73 initialize...
+08-04 19:47:41.355  7024  7024 I ShortcutsDataManager: ShortcutsDataManager.onContentChanged():72 onContentChanged()
+08-04 19:47:41.361  7024  7024 I ContactsDataManager: ContactsDataManager.onContentChanged():153 onContentChanged()
+08-04 19:47:41.370 23512 23526 I acationexplorer: hiddenapi: Accessing hidden method Landroid/view/ViewConfiguration;->getDoubleTapMinTime()I (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/test/espresso/action/Tap; (domain=app) using reflection: allowed
+08-04 19:47:41.373  7024  7024 W AndroidSpellCheckerService: AndroidSpellCheckerService.initialize():83 initialize...done
+08-04 19:47:41.393 23512 23512 I AssistStructure: Flattened final assist data: 2072 bytes, containing 1 windows, 11 views
+08-04 19:47:41.398  7024 10630 I AndroidSpellCheckerService: AndroidSpellCheckerService.createSession():139 com.google.android.keyboard.client.delight5.LanguageIdentifier@a7cab1f is created
+08-04 19:47:41.414 23512 23512 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230898/com.example.vacationexplorer:id/editExcursionDate>
+08-04 19:47:41.609   715  2568 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+08-04 19:47:42.396  1493  1493 I wpa_supplicant: wlan0: CTRL-EVENT-BEACON-LOSS
+08-04 19:47:42.431 23512 23512 I ViewInteraction: Performing 'set date' action on view view.getClass().getName() matches: "android.widget.DatePicker"
+08-04 19:47:42.459 23512 23512 I ViewInteraction: Performing 'single click' action on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "OK"
+08-04 19:47:42.511   715  2263 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+08-04 19:47:42.526 23512 23512 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda13@4857d8f
+08-04 19:47:42.531   547   645 D AudioFlinger: mixer(0x76bdd0ddd770) throttle end: throttle time(36)
+08-04 19:47:42.535 23512 23528 D HWUI    : endAllActiveAnimators on 0x7b24950626a0 (RippleDrawable) with handle 0x7b25b505e1a0
+08-04 19:47:42.580   715   899 I ImeTracker: com.example.vacationexplorer:d5f46967: onRequestHide at ORIGIN_SERVER reason HIDE_SAME_WINDOW_FOCUSED_WITHOUT_EDITOR fromUser false
+08-04 19:47:42.581 23512 23512 D InsetsController: hide(ime(), fromIme=false)
+08-04 19:47:42.582 23512 23512 I ImeTracker: com.example.vacationexplorer:d5f46967: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+08-04 19:47:42.586  7024  7024 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2043
+08-04 19:47:42.586  7024  7024 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+08-04 19:47:42.597  7024  7024 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1293 onStartInput(EditorInfo{EditorInfo{packageName=com.example.vacationexplorer, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+08-04 19:47:42.599  7024  7024 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+08-04 19:47:42.603  7024  7024 I ShortcutsDataManager: AbstractContentDataManager.startImportContentTask():243 startImportContentTask()
+08-04 19:47:42.612  7024  7216 I ShortcutsDataManager: AbstractContentDataManager$ImportContentTask.doInBackground():258 doInBackground()
+08-04 19:47:42.614  7024  7216 I PersonalDictionaryDataHandler: PersonalDictionaryDataHandler.beginProcess():114 LanguageTags = [en-US]
+08-04 19:47:42.705  7024  7216 I ShortcutsDataManager: AbstractContentDataManager.importRecords():349 importRecords() : Success : Count = 0
+08-04 19:47:42.719  7024  7216 I ShortcutsDataManager: AbstractContentDataManager.importContentData():298 importContentData() : Ending import process
+08-04 19:47:42.730  7024  7204 I Delight5Decoder: Delight5DecoderWrapper.unloadLanguageModel():957 unloadLanguageModel() : 4, version [n/a]
+08-04 19:47:42.791 23512 23512 I ViewInteraction: Performing 'Handle transition between action bar and action bar context.' action on view view.getRootView() to equal view
+08-04 19:47:42.798 23512 23512 I ViewInteraction: Performing 'single click' action on view (((view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle) and view.getContentDescription() is "More options") or ((view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle) and view.getClass().getName() matches: a string ending with "OverflowMenuButton"))
+08-04 19:47:42.866   715  2263 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+08-04 19:47:42.994  7024  7216 I PersonalLanguageModelUpdater: PersonalLanguageModelUpdater$UpdateOperation.performInternal():165 run() : Added 0 words and 0 shortcuts
+08-04 19:47:42.995  7024  7216 I DynamicLanguageModelOperation: DynamicLanguageModelOperation.perform():43 perform() : 4 : dqh : Completed
+08-04 19:47:42.997  7024  7204 I Delight5Decoder: Delight5DecoderWrapper.loadLanguageModel():740 loadLanguageModel() : 4, version [n/a]
+08-04 19:47:42.998  7024  7204 I Delight5Decoder: Delight5DecoderWrapper.loadLanguageModel():785 Loaded dynamic LM 4.en
+08-04 19:47:42.999  7024  7024 I ShortcutsDataManager: AbstractContentDataManager$ImportContentTask.onPostExecute():269 onPostExecute() : Result = [2,0]
+08-04 19:47:43.000  7024  7024 I ShortcutsDataManager: ShortcutsDataManager.onImportFinished():82 onImportFinished() : Result = 2 : Count = 0
+08-04 19:47:43.353 23512 23549 D ProfileInstaller: Installing profile for com.example.vacationexplorer
+08-04 19:47:43.357 23512 23512 I ViewInteraction: Performing 'single click' action on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Save"
+08-04 19:47:43.380  3319  3575 D SatelliteController: iisInCarrierRoamingNbIotNtn: satellite is disabled
+08-04 19:47:43.470   715  2066 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+08-04 19:47:43.509   547   645 D AF::Track: interceptBuffer: took 4383us to intercept 0 tracks
+08-04 19:47:44.493 23512 23512 I Choreographer: Skipped 61 frames!  The application may be doing too much work on its main thread.
+08-04 19:47:44.497  1239  1239 I ndroid.systemui: AssetManager2(0x7b2565047bd8) locale list changing from [] to [en-US]
+08-04 19:47:44.501  1239  1239 E ndroid.systemui: Invalid resource ID 0x00000000.
+08-04 19:47:44.512  1239  1239 I ndroid.systemui: AssetManager2(0x7b2565040838) locale list changing from [] to [en-US]
+08-04 19:47:44.579   715   899 I ImeTracker: com.example.vacationexplorer:d38c8c2d: onRequestHide at ORIGIN_SERVER reason HIDE_SAME_WINDOW_FOCUSED_WITHOUT_EDITOR fromUser false
+08-04 19:47:44.584  7024  7024 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2043
+08-04 19:47:44.586  7024  7024 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+08-04 19:47:44.590  7024  7024 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1293 onStartInput(EditorInfo{EditorInfo{packageName=com.example.vacationexplorer, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+08-04 19:47:44.590  7024  7024 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+08-04 19:47:44.599 23512 23512 D InsetsController: hide(ime(), fromIme=false)
+08-04 19:47:44.599 23512 23512 I ImeTracker: com.example.vacationexplorer:d38c8c2d: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+08-04 19:47:44.675   715  1141 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+08-04 19:47:44.675   715  1141 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+08-04 19:47:44.675   715  1141 D InetDiagMessage: Destroyed live tcp sockets for uids={10105} in 5ms
+08-04 19:47:44.773   715  2066 I system_server: AssetManager2(0x7b25651117f8) locale list changing from [] to [en-US]
+08-04 19:47:44.776   715  2066 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@a264d80f does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+08-04 19:47:44.786   551   592 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+08-04 19:47:44.793  1239  1385 I ndroid.systemui: AssetManager2(0x7b2565051b38) locale list changing from [] to [en-US]
+08-04 19:47:44.806   715   745 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@a264d80f does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+08-04 19:47:44.814 23512 23512 D LifecycleMonitor: Lifecycle status change: com.example.personaltravel.UI.ExcursionDetails@666fe23 in: PAUSED
+08-04 19:47:44.814 23512 23512 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.personaltravel.UI.ExcursionDetails@666fe23
+08-04 19:47:44.830   604   701 W IPCThreadState: Sending oneway calls to frozen process.
+08-04 19:47:44.831   604   701 W IPCThreadState: Sending oneway calls to frozen process.
+08-04 19:47:44.831   551  1538 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+08-04 19:47:44.844 23512 23512 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda13@7dae2d
+08-04 19:47:44.851   477   477 D Zygote  : Forked child process 23552
+08-04 19:47:44.873   715   745 W IPCThreadState: Sending oneway calls to frozen process.
+08-04 19:47:44.890 23552 23552 I onexplorer.test: Late-enabling -Xcheck:jni
+08-04 19:47:44.920 23552 23552 I onexplorer.test: Using CollectorTypeCMC GC.
+08-04 19:47:44.921 23552 23552 W onexplorer.test: Unexpected CPU variant for x86: x86_64.
+08-04 19:47:44.921 23552 23552 W onexplorer.test: Known variants: atom, sandybridge, silvermont, goldmont, goldmont-plus, goldmont-without-sha-xsaves, tremont, kabylake, alderlake, default
+08-04 19:47:44.927  1509  1517 I adbd    : jdwp connection from 23552
+08-04 19:47:44.926  1509  1509 W adbd    : type=1400 audit(0.0:5468): avc:  denied  { getattr } for  path="/sys/fs/cgroup/apps/uid_10242/pid_23552/cgroup.freeze" dev="cgroup2" ino=14309 scontext=u:r:adbd:s0 tcontext=u:object_r:cgroup_v2:s0 tclass=file permissive=0
+08-04 19:47:44.946 23552 23552 D nativeloader: Load libframework-connectivity-tiramisu-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity-t.jar: ok
+08-04 19:47:45.024  1239  1354 I ndroid.systemui: AssetManager2(0x7b256506cd98) locale list changing from [] to [en-US]
+08-04 19:47:45.026 23552 23552 I ActivityThread: Relaunch all activities: onCoreSettingsChange
+08-04 19:47:45.057  1239  1354 I ndroid.systemui: AssetManager2(0x7b2565077fb8) locale list changing from [] to [en-US]
+08-04 19:47:45.070 23552 23552 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+08-04 19:47:45.082 23552 23552 D nativeloader: Configuring clns-9 for other apk /system/framework/android.test.mock.jar. target_sdk_version=35, uses_libraries=ALL, library_path=/data/app/~~BNV497pAC_qurGCC6PVFKQ==/com.example.vacationexplorer.test-vCV1wHMzXr6X_QweBbCRww==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.vacationexplorer.test
+08-04 19:47:45.089 23552 23552 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+08-04 19:47:45.089   512   512 I RanchuHwc: logCompositionFallbackIfChanged: layer 461 CompositionType fallback from 2 to 1
+08-04 19:47:45.089   512   512 I RanchuHwc: logCompositionFallbackIfChanged: layer 462 CompositionType fallback from 3 to 1
+08-04 19:47:45.099 23552 23552 D nativeloader: Configuring clns-10 for other apk /system/framework/android.test.runner.jar. target_sdk_version=35, uses_libraries=ALL, library_path=/data/app/~~BNV497pAC_qurGCC6PVFKQ==/com.example.vacationexplorer.test-vCV1wHMzXr6X_QweBbCRww==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.vacationexplorer.test
+08-04 19:47:45.162 23552 23552 D nativeloader: Configuring clns-11 for other apk /data/app/~~BNV497pAC_qurGCC6PVFKQ==/com.example.vacationexplorer.test-vCV1wHMzXr6X_QweBbCRww==/base.apk. target_sdk_version=35, uses_libraries=, library_path=/data/app/~~BNV497pAC_qurGCC6PVFKQ==/com.example.vacationexplorer.test-vCV1wHMzXr6X_QweBbCRww==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.vacationexplorer.test
+08-04 19:47:45.169 23552 23552 D CompatChangeReporter: Compat change id reported: 202956589; UID 10242; state: ENABLED
+08-04 19:47:45.179 23552 23552 I onexplorer.test: AssetManager2(0x7b2565024c78) locale list changing from [] to [en-US]
+08-04 19:47:45.190 23552 23552 V GraphicsEnvironment: Currently set values for:
+08-04 19:47:45.190 23552 23552 V GraphicsEnvironment:   angle_gl_driver_selection_pkgs=[]
+08-04 19:47:45.190 23552 23552 V GraphicsEnvironment:   angle_gl_driver_selection_values=[]
+08-04 19:47:45.190 23552 23552 V GraphicsEnvironment: com.example.vacationexplorer.test is not listed in per-application setting
+08-04 19:47:45.190 23552 23552 V GraphicsEnvironment: ANGLE allowlist from config:
+08-04 19:47:45.190 23552 23552 V GraphicsEnvironment: com.example.vacationexplorer.test is not listed in ANGLE allowlist or settings, returning default
+08-04 19:47:45.190 23552 23552 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+08-04 19:47:45.228 23552 23552 I onexplorer.test: AssetManager2(0x7b25650255d8) locale list changing from [] to [en-US]
+08-04 19:47:45.250 23552 23552 E ashmem  : Pinning is deprecated since Android Q. Please use trim or other methods.
+08-04 19:47:45.276 23552 23566 I EGL_emulation: Opening libGLESv1_CM_emulation.so
+08-04 19:47:45.276 23552 23566 I EGL_emulation: Opening libGLESv2_emulation.so
+08-04 19:47:45.283 23552 23552 E onexplorer.test: Invalid resource ID 0x00000000.
+08-04 19:47:45.297 23552 23552 D CompatChangeReporter: Compat change id reported: 279646685; UID 10242; state: ENABLED
+08-04 19:47:45.309 23552 23566 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+08-04 19:47:45.315 23552 23552 D CompatChangeReporter: Compat change id reported: 309578419; UID 10242; state: ENABLED
+08-04 19:47:45.317 23552 23566 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+08-04 19:47:45.321 23552 23552 D DesktopModeFlags: Toggle override initialized to: OVERRIDE_UNSET
+08-04 19:47:45.351 23552 23552 D CompatChangeReporter: Compat change id reported: 352594277; UID 10242; state: ENABLED
+08-04 19:47:45.379 23552 23552 D CompatChangeReporter: Compat change id reported: 349153669; UID 10242; state: ENABLED
+08-04 19:47:45.384 23552 23552 W HWUI    : Unknown dataspace 0
+08-04 19:47:45.425   551   566 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+08-04 19:47:45.448   551   567 W ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10242 pid=0
+08-04 19:47:45.448   551   567 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10242 => denied (548 us)
+08-04 19:47:45.450   551   567 W ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10242 pid=0
+08-04 19:47:45.450   551  1538 W ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10242 pid=23552
+08-04 19:47:45.450   551  1538 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10242 => denied (763 us)
+08-04 19:47:45.450   551   567 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10242 => denied (2308 us)
+08-04 19:47:45.452   551   567 W ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10242 pid=0
+08-04 19:47:45.452   551   567 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10242 => denied (1601 us)
+08-04 19:47:45.452   551  1538 W ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10242 pid=23552
+08-04 19:47:45.452   551  1538 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10242 => denied (2038 us)
+08-04 19:47:45.553   715   732 W ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10242 pid=0
+08-04 19:47:45.553   715   732 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10242 => denied (112 us)
+08-04 19:47:45.553   715   732 W ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10242 pid=0
+08-04 19:47:45.553   715   732 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10242 => denied (69 us)
+08-04 19:47:45.553   715   732 W ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10242 pid=0
+08-04 19:47:45.553   715   732 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10242 => denied (53 us)
+08-04 19:47:45.561  1497  1497 D ViewRootImpl: Skipping stats log for color mode
+08-04 19:47:45.562  1497  1497 D StatsLog: LAUNCHER_ONRESUME
+08-04 19:47:45.585  1497  1497 D VRI[NexusLauncherActivity]: visibilityChanged oldVisibility=false newVisibility=true
+08-04 19:47:45.597  1497  1497 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=6}
+08-04 19:47:45.627 23512 23512 D VRI[ExcursionDetails]: visibilityChanged oldVisibility=true newVisibility=false
+08-04 19:47:45.632  1497  1528 D QuickstepModelDelegate: notifyAppTargetEvent action=1 launchLocation=workspace/0/[-1,-1]/[1,1]
+08-04 19:47:45.653  1940  2339 I AiAiEcho: Predicting[0]:  [CONTEXT sampling_count=5 ]
+08-04 19:47:45.659  1940  2339 I AiAiEcho: EchoTargets:
+08-04 19:47:45.659  1940  2339 I AiAiEcho: Filtered by AiAi flag check:
+08-04 19:47:45.659  1940  2339 I AiAiEcho: [CONTEXT ratelimit_period="10 SECONDS" ]
+08-04 19:47:45.666  1940  2339 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+08-04 19:47:45.693  1497  1497 D BaseDepthController: setSurface:
+08-04 19:47:45.693  1497  1497 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+08-04 19:47:45.693  1497  1497 D BaseDepthController: 	mBaseSurface: Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity)/@0x201bec2
+08-04 19:47:45.786  1940  2339 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface home with targets# 0 (types=[])
+08-04 19:47:45.798  1497  1497 I NotificationListener: Handling notification state refresh for android#0
+08-04 19:47:45.798  1497  1497 I NotificationListener: Handling notification state refresh for com.google.android.apps.wellbeing#0
+08-04 19:47:45.798  1497  1497 I NotificationListener: Handling notification state refresh for com.android.systemui#0
+08-04 19:47:45.814  1497  1497 D SsBaseTemplateCard: No text view can be set up
+08-04 19:47:45.814  1497  1497 D SsBaseTemplateCard: Passed-in item info is null
+08-04 19:47:45.814  1497  1497 D SsBaseTemplateCard: Passed-in item info is null
+08-04 19:47:45.814  1497  1497 D SsBaseTemplateCard: Passed-in item info is null
+08-04 19:47:45.814  1497  1497 I SsBaseTemplateCard: Secondary card pane is null
+08-04 19:47:45.816  1497  1497 D StateManager: createAtomicAnimation - fromState: Background, toState: Normal, partial trace:
+08-04 19:47:45.816  1497  1497 D StateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.prepareToAnimate(go/retraceme ee19ec8c009da7af1d458e7d1683a6f5bf3b93b44f6674aa108e1a3e78584fe0:22)
+08-04 19:47:45.816  1497  1497 D StateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.<init>(go/retraceme ee19ec8c009da7af1d458e7d1683a6f5bf3b93b44f6674aa108e1a3e78584fe0:11)
+08-04 19:47:45.816  1497  1497 D StateManager: 	at com.android.launcher3.QuickstepTransitionManager.createWallpaperOpenAnimations(go/retraceme ee19ec8c009da7af1d458e7d1683a6f5bf3b93b44f6674aa108e1a3e78584fe0:339)
+08-04 19:47:45.817  1497  1497 D b/311077782: LauncherAnimationRunner.setAnimation
+08-04 19:47:45.857   512   512 I RanchuHwc: logCompositionFallbackIfChanged: layer 465 CompositionType fallback from 2 to 1
+08-04 19:47:45.857   512   512 I RanchuHwc: logCompositionFallbackIfChanged: layer 466 CompositionType fallback from 2 to 1
+08-04 19:47:45.864   715   899 I ImeTracker: com.google.android.apps.nexuslauncher:514ee3be: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+08-04 19:47:45.871 23512 23512 I AutofillManager: onInvisibleForAutofill(): expiringResponse
+08-04 19:47:45.871 23512 23512 D LifecycleMonitor: Lifecycle status change: com.example.personaltravel.UI.ExcursionDetails@666fe23 in: STOPPED
+08-04 19:47:45.871 23512 23512 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.personaltravel.UI.ExcursionDetails@666fe23
+08-04 19:47:45.873  7024  7024 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2043
+08-04 19:47:45.874   715  2066 I ImeTracker: system_server:978eb1cd: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+08-04 19:47:45.879  7024  7024 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+08-04 19:47:45.880 23512 23512 D LifecycleMonitor: Lifecycle status change: com.example.personaltravel.UI.ExcursionDetails@666fe23 in: DESTROYED
+08-04 19:47:45.880 23512 23512 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+08-04 19:47:45.889 23512 23526 I TestRunner: finished: excursionDateBeforeVacationStart_showsValidationError(com.example.personaltravel.ExcursionDetailsTest)
